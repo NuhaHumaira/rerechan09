@@ -1,6 +1,4 @@
 #!/bin/bash
-dateFromServer=$(curl -v --insecure --silent https://google.com/ 2>&1 $
-biji=`date +"%Y-%m-%d" -d "$dateFromServer"`
 #########################
 
 cekray=`cat /root/log-install.txt | grep -ow "XRAY" | sort | uniq`
