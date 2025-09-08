@@ -1,3 +1,58 @@
-z="
-";xFz='ee -';GEz='syst';QDz='akti';EDz='/ker';dBz='t -d';fGz='		: ';CDz='proc';Gz='[0m'\''';cBz='| cu';NBz='IP';Iz='N='\''\';FFz='&pat';HCz='er';bBz='Go" ';gBz='d '\''s';uFz='ress';nEz='${uu';OFz='━━\0';cz='0;37';RGz='ngo"';GFz='h=%2';PFz='m" |';yFz='a /e';AGz='tc/l';DDz='/sys';FCz=' " -';MFz='34m━';dEz='=ws&';aDz='""'\''"';xGz='1 -s';ZGz='"===';tEz='{trg';aFz='OJAN';cGz='"Lin';Vz='PURP';OGz='"Pat';BFz='s&ho';gGz='${li';FHz=' bac';DHz='y ke';yCz='exit';MDz=' (Da';RBz='cat ';lDz=' "$m';pDz='s" +';vEz='sni=';tFz='"Add';yz='IP" ';fEz='=${d';jGz='v2ra';RCz='jan-';JFz='o#$u';mBz='er =';wDz='days';OEz='ice';iEz='%2Ft';kDz='e -d';wz='if [';Zz=';36m';sEz='ni:$';CEz='"###';GDz='rand';wGz=' -n ';VCz=' | w';EHz='y to';CHz='s an';QGz=': /t';BBz=' ]];';hBz='/ //';DBz='n';aBz='jan ';Wz='LE='\''';IGz='"Key';ez='r';iz='etc/';TBz='g-in';oFz=': ${';UEz='i_bu';uCz='hoos';Mz='ORAN';HFz='Ftro';CFz='st=$';qCz=' On ';oBz='a-zA';uz='ps.c';iBz='g'\'')"';EBz='doma';dGz='k Tr';LGz='ion ';tGz='han0';oDz=' day';XFz='0;41';IHz='u"';gDz='fig.';YCz='[ ${';JCz='_EXI';EGz='er.l';VFz='.log';oz='sour';fz='uuid';sCz='Plea';ABz='= ""';bEz='in}&';ODz=': " ';fFz='e -a';GBz='(cat';JEz='star';rGz='By R';Nz='GE='\''';tCz='se C';Sz='33[0';LDz='ired';CCz=' -rp';eCz='echo';KEz='t tr';EEz='exp"';hGz='nk}"';XGz=': $e';iFz='eate';jDz='`dat';qz='var/';ZDz=''\''""$';Ez='NC='\''';PGz='h   ';oGz='"Scr';VEz='g_di';MCz='ep -';AHz='-p "';ZEz='/?sn';mEz='n://';HEz='emct';PCz='/etc';ADz=' 1';nFz='arks';bCz=''\''1'\'' ';vDz=' "0 ';KDz='"Exp';iGz='Go (';ZFz='  TR';XBz='grep';pGz='ipt ';QFz=' tee';AFz='pe=w';HDz='om/u';HHz=' men';XCz=')';rDz='%m-%';yEz='}&ty';bDz=''\'' /e';YEz='rgo}';eBz=': -f';kGz='yNG)';sFz='MYIP';wFz=' | t';VDz='"$uu';lEz='1="t';nGz='k1}"';TDz='-i '\''';sBz=' ${u';uDz='ini=';rz='lib/';xEz='main';jBz='unti';eEz='host';aCz=' == ';mz='id.t';pz='ce /';qEz='bug_';BEz='"`';mGz='{lin';Oz='[0;3';jCz='e ${';MGz=': no';fDz='/con';WCz='c -l';bGz='=="';SBz='~/lo';rEz='disi';eFz='| te';DFz='{dom';dDz='roja';NFz='━━━━';BDz='done';lFz='g';UDz='/"'\''"';UBz='stal';Cz='3[0;';gCz=' -e ';AEz='m-%d';qFz='"IP/';mCz='er}$';KGz='rypt';LBz='n)';BCz='read';NGz='ne" ';ECz='er :';IDz='uid)';DGz='e-us';GCz='e us';NCz='w $u';nDz='ktif';RDz='f';hz='at /';qBz='9_]+';TFz='-cre';WGz='ni" ';LEz='ojan';WEz='sini';kCz='RED}';YGz='xp" ';bFz=' GO ';uEz='o}/?';PBz='trgo';LCz='$(gr';Dz='31m'\''';hDz='json';yBz=']; d';vGz=' "" ';vFz='in}"';XEz=':${t';YBz=' -w ';nCz='{NC}';Hz='GREE';lBz=' $us';Fz='\033';qGz='Mod ';ZBz='"Tro';gz='=$(c';dz='clea';QEz='="tr';LFz='"\03';xCz='r"';OCz='ser ';Xz='5m'\''';yDz='%Y-%';FBz='in=$';NDz='ys) ';rBz='$ &&';MEz='-go.';qDz='"%Y-';xz='[ "$';GHz='k on';YFz='    ';dCz='then';CBz=' the';tDz='hari';FEz=' >> ';KBz='omai';dFz='0m" ';eGz='Go  ';aEz='i=${';vCz='e An';ZCz='STS}';gFz='c/lo';fCz=' ""';CGz='reat';Jz='033[';BGz='og-c';TCz='kun.';VGz='arii';OBz='fi';FGz='og';SGz='"Cre';PEz='link';vz='onf';hFz='g-cr';wBz='== '\''';PDz='masa';nBz='~ ^[';az='LIGH';Rz='='\''\0';mDz='asaa';QBz='="$(';xBz='0'\'' ]';JBz='ay/d';uBz='EXIS';JHz='menu';wEz='${do';ACz='o';gEz='n}&p';pEz='isi_';KFz='ser"';lz='o/uu';kBz='l [[';cFz=' \E[';sGz='erec';tz='/ipv';Yz='CYAN';IFz='jang';rCz='VPS ';pBz='-Z0-';XDz=''\''"$/';MBz='else';WDz='id""';IBz='c/xr';Bz=''\''\03';Qz='BLUE';sz='SIJA';cEz='type';JDz=' -p ';cDz='tc/t';SDz='sed ';hEz='ath=';DCz=' "Us';iDz='exp=';xDz='" +"';SCz='go/a';yGz=' -r ';TGz='ated';eDz='n-go';EFz='ain}';Uz=''\''';hCz='"Use';vBz='TS} ';IEz='l re';oEz='id}@';kEz='$use';WFz='"\E[';VBz='l.tx';FDz='nel/';HGz='t   ';jz='troj';WBz='t | ';cCz=']]; ';tBz='ser_';pFz='}" |';bz='T='\''\';uGz='2"';UFz='ate-';KCz='STS=';fBz='2|se';lCz='${us';Tz=';34m';aGz='====';kFz='r.lo';UGz=': $h';RFz=' -a ';kz='an-g';NEz='serv';jFz='-use';lGz='	: $';Lz='m'\''';rFz='Host';Pz='3m'\''';REz='-go:';SEz='//${';YDz='a\,"';HBz=' /et';TEz='}@is';BHz='Pres';pCz='eady';JGz='"Enc';nz='xt)';oCz=' Alr';ICz='user';mFz='"Rem';Kz='0;32';DEz='er $';wCz='othe';UCz='conf';jEz='ngo#';GGz='"Por';iCz='rnam';QCz='/tro';sDz='d"`';Az='RED=';SFz='/log';
-eval "$Az$Bz$Cz$Dz$z$Ez$Fz$Gz$z$Hz$Iz$Jz$Kz$Lz$z$Mz$Nz$Fz$Oz$Pz$z$Qz$Rz$Sz$Tz$Uz$z$Vz$Wz$Fz$Oz$Xz$z$Yz$Rz$Sz$Zz$Uz$z$az$bz$Jz$cz$Lz$z$dz$ez$z$fz$gz$hz$iz$jz$kz$lz$mz$nz$z$oz$pz$qz$rz$sz$tz$uz$vz$z$wz$xz$yz$ABz$BBz$CBz$DBz$z$EBz$FBz$GBz$HBz$IBz$JBz$KBz$LBz$z$MBz$z$EBz$FBz$NBz$z$OBz$z$PBz$QBz$RBz$SBz$TBz$UBz$VBz$WBz$XBz$YBz$ZBz$aBz$bBz$cBz$dBz$eBz$fBz$gBz$hBz$iBz$z$jBz$kBz$lBz$mBz$nBz$oBz$pBz$qBz$rBz$sBz$tBz$uBz$vBz$wBz$xBz$yBz$ACz$z$BCz$CCz$DCz$ECz$FCz$GCz$HCz$z$ICz$JCz$KCz$LCz$MCz$NCz$OCz$PCz$QCz$RCz$SCz$TCz$UCz$VCz$WCz$XCz$z$wz$YCz$ICz$JCz$ZCz$aCz$bCz$cCz$dCz$z$eCz$fCz$z$eCz$gCz$hCz$iCz$jCz$kCz$lCz$mCz$nCz$oCz$pCz$qCz$rCz$sCz$tCz$uCz$vCz$wCz$xCz$z$yCz$ADz$z$OBz$z$BDz$z$fz$gz$hz$CDz$DDz$EDz$FDz$GDz$HDz$IDz$z$BCz$JDz$KDz$LDz$MDz$NDz$ODz$PDz$QDz$RDz$z$SDz$TDz$UDz$VDz$WDz$XDz$YDz$ZDz$ICz$aDz$bDz$cDz$dDz$eDz$fDz$gDz$hDz$z$iDz$jDz$kDz$lDz$mDz$nDz$oDz$pDz$qDz$rDz$sDz$z$tDz$uDz$jDz$kDz$vDz$wDz$xDz$yDz$AEz$BEz$z$eCz$gCz$CEz$lBz$DEz$EEz$FEz$PCz$QCz$RCz$SCz$TCz$UCz$z$GEz$HEz$IEz$JEz$KEz$LEz$MEz$NEz$OEz$z$PEz$QEz$LEz$REz$SEz$fz$TEz$UEz$VEz$WEz$XEz$YEz$ZEz$aEz$EBz$bEz$cEz$dEz$eEz$fEz$KBz$gEz$hEz$iEz$dDz$jEz$kEz$xCz$z$PEz$lEz$dDz$mEz$nEz$oEz$pEz$qEz$rEz$sEz$tEz$uEz$vEz$wEz$xEz$yEz$AFz$BFz$CFz$DFz$EFz$FFz$GFz$HFz$IFz$JFz$KFz$z$dz$ez$z$eCz$gCz$LFz$Cz$MFz$NFz$NFz$NFz$NFz$NFz$NFz$NFz$NFz$OFz$Sz$PFz$QFz$RFz$PCz$SFz$TFz$UFz$ICz$VFz$z$eCz$gCz$WFz$XFz$Zz$YFz$YFz$ZFz$aFz$bFz$YFz$YFz$cFz$dFz$eFz$fFz$HBz$gFz$hFz$iFz$jFz$kFz$lFz$z$eCz$gCz$LFz$Cz$MFz$NFz$NFz$NFz$NFz$NFz$NFz$NFz$NFz$OFz$Sz$PFz$QFz$RFz$PCz$SFz$TFz$UFz$ICz$VFz$z$eCz$gCz$mFz$nFz$YFz$oFz$ICz$pFz$QFz$RFz$PCz$SFz$TFz$UFz$ICz$VFz$z$eCz$gCz$qFz$rFz$YFz$oFz$sFz$pFz$QFz$RFz$PCz$SFz$TFz$UFz$ICz$VFz$z$eCz$gCz$tFz$uFz$YFz$oFz$EBz$vFz$wFz$xFz$yFz$AGz$BGz$CGz$DGz$EGz$FGz$z$eCz$gCz$GGz$HGz$YFz$oFz$PBz$pFz$QFz$RFz$PCz$SFz$TFz$UFz$ICz$VFz$z$eCz$gCz$IGz$YFz$YFz$oFz$fz$pFz$QFz$RFz$PCz$SFz$TFz$UFz$ICz$VFz$z$eCz$gCz$JGz$KGz$LGz$MGz$NGz$eFz$fFz$HBz$gFz$hFz$iFz$jFz$kFz$lFz$z$eCz$gCz$OGz$PGz$YFz$QGz$dDz$RGz$wFz$xFz$yFz$AGz$BGz$CGz$DGz$EGz$FGz$z$eCz$gCz$SGz$TGz$YFz$UGz$VGz$WGz$eFz$fFz$HBz$gFz$hFz$iFz$jFz$kFz$lFz$z$eCz$gCz$KDz$LDz$YFz$XGz$YGz$eFz$fFz$HBz$gFz$hFz$iFz$jFz$kFz$lFz$z$eCz$gCz$ZGz$aGz$aGz$aGz$aGz$aGz$bGz$z$eCz$gCz$cGz$dGz$eGz$fGz$gGz$hGz$wFz$xFz$yFz$AGz$BGz$CGz$DGz$EGz$FGz$z$eCz$gCz$cGz$dGz$iGz$jGz$kGz$lGz$mGz$nGz$wFz$xFz$yFz$AGz$BGz$CGz$DGz$EGz$FGz$z$eCz$gCz$ZGz$aGz$aGz$aGz$aGz$aGz$bGz$z$eCz$gCz$oGz$pGz$qGz$rGz$sGz$tGz$uGz$z$eCz$vGz$eFz$fFz$HBz$gFz$hFz$iFz$jFz$kFz$lFz$z$BCz$wGz$xGz$yGz$AHz$BHz$CHz$DHz$EHz$FHz$GHz$HHz$IHz$z$JHz"
+# Decrypted by K-fuscator
+
+RED='\033[0;31m'
+NC='\033[0m'
+GREEN='\033[0;32m'
+ORANGE='\033[0;33m'
+BLUE='\033[0;34m'
+PURPLE='\033[0;35m'
+CYAN='\033[0;36m'
+LIGHT='\033[0;37m'
+clear
+uuid=$(cat /etc/trojan-go/uuid.txt)
+source /var/lib/SIJA/ipvps.conf
+if [[ "$IP" = "" ]]; then
+domain=$(cat /etc/xray/domain)
+else
+domain=$IP
+fi
+trgo="$(cat ~/log-install.txt | grep -w "Trojan Go" | cut -d: -f2|sed 's/ //g')"
+until [[ $user =~ ^[a-zA-Z0-9_]+$ && ${user_EXISTS} == '0' ]]; do
+read -rp "User : " -e user
+user_EXISTS=$(grep -w $user /etc/trojan-go/akun.conf | wc -l)
+if [[ ${user_EXISTS} == '1' ]]; then
+echo ""
+echo -e "Username ${RED}${user}${NC} Already On VPS Please Choose Another"
+exit 1
+fi
+done
+uuid=$(cat /proc/sys/kernel/random/uuid)
+read -p "Expired (Days) : " masaaktif
+sed -i '/"'""$uuid""'"$/a\,"'""$user""'"' /etc/trojan-go/config.json
+exp=`date -d "$masaaktif days" +"%Y-%m-%d"`
+hariini=`date -d "0 days" +"%Y-%m-%d"`
+echo -e "### $user $exp" >> /etc/trojan-go/akun.conf
+systemctl restart trojan-go.service
+link="trojan-go://${uuid}@isi_bug_disini:${trgo}/?sni=${domain}&type=ws&host=${domain}&path=%2Ftrojango#$user"
+link1="trojan://${uuid}@isi_bug_disini:${trgo}/?sni=${domain}&type=ws&host=${domain}&path=%2Ftrojango#$user"
+clear
+echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m" | tee -a /etc/log-create-user.log
+echo -e "\E[0;41;36m          TROJAN GO          \E[0m" | tee -a /etc/log-create-user.log
+echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m" | tee -a /etc/log-create-user.log
+echo -e "Remarks    : ${user}" | tee -a /etc/log-create-user.log
+echo -e "IP/Host    : ${MYIP}" | tee -a /etc/log-create-user.log
+echo -e "Address    : ${domain}" | tee -a /etc/log-create-user.log
+echo -e "Port       : ${trgo}" | tee -a /etc/log-create-user.log
+echo -e "Key        : ${uuid}" | tee -a /etc/log-create-user.log
+echo -e "Encryption : none" | tee -a /etc/log-create-user.log
+echo -e "Path       : /trojango" | tee -a /etc/log-create-user.log
+echo -e "Created    : $hariini" | tee -a /etc/log-create-user.log
+echo -e "Expired    : $exp" | tee -a /etc/log-create-user.log
+echo -e "========================="
+echo -e "Link TrGo  		: ${link}" | tee -a /etc/log-create-user.log
+echo -e "Link TrGo (v2rayNG)	: ${link1}" | tee -a /etc/log-create-user.log
+echo -e "========================="
+echo -e "Script Mod By Rerechan02"
+echo "" | tee -a /etc/log-create-user.log
+read -n 1 -s -r -p "Press any key to back on menu"
+menu

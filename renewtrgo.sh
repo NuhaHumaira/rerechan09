@@ -1,3 +1,50 @@
-z="
-";qz='/tro';JEz='2 + ';OEz='=`da';Jz='033[';Zz=';36m';yz='S} =';BCz=''\'' '\'' ';HBz='u ha';ODz='R}"p';MBz='lien';ACz=' -d ';Wz='LE='\''';sCz='R';eCz='read';BDz='akti';DCz='-3 |';iBz='etur';gDz=' 3 |';VCz='_OF_';mDz='$(da';vz='")';QEz='d "$';bEz='/###';YCz=' ]];';lBz='"===';YBz=' you';NCz='} -g';rBz='"/et';az='LIGH';RBz=' "Se';pBz='"^##';sBz='c/tr';rEz='me :';pCz='OF_C';bBz=' ren';Kz='0;32';uEz='pire';IEz='$exp';ADz='masa';Pz='3m'\''';fCz=' -rp';hBz='to r';Cz='3[0;';kDz='}"p)';lCz='else';OCz='e 1 ';wCz='ired';FCz='-s '\''';uBz='-go/';LEz='aakt';OBz='exit';dDz='ut -';tDz=' "$e';eEz='/g" ';gEz='=="';FDz='rep ';hEz=' "  ';XDz='troj';Yz='CYAN';WCz='CLIE';yBz=' cut';mCz='[1-$';IBz='ve n';NBz='ts!"';Lz='m'\''';JBz='o ex';Dz='31m'\''';xCz=' (Da';xz='[ ${';EBz='echo';oBz=' -E ';cDz=' | c';Fz='\033';hDz=' sed';aBz='t to';Mz='ORAN';MEz='if))';KBz='isti';tEz=' "Ex';UDz='### ';EDz='=$(g';fz='NUMB';yCz='ys) ';eBz='ress';SEz='s" +';ZEz='# $u';GBz=' "Yo';sz='go/a';uz='conf';xEz='p4"';mBz='====';fDz=''\'' -f';FFz='02"';AEz='exp2';XBz='ient';xBz='f" |';jEz='anGo';Uz=''\''';MDz='d -n';gCz=' one';NEz='exp4';HDz='cut ';Rz='='\''\0';pz='/etc';kCz=' " C';jCz='[1]:';iCz='ent ';PEz='te -';cBz='ew"';KDz='f 2 ';Hz='GREE';rz='jan-';Sz='33[0';HCz='unti';qDz='d1=$';IDz='-d '\''';ez='r';Xz='5m'\''';lEz='ount';Nz='GE='\''';PBz=' 1';nBz='"';sEz='er"';fBz=' CTR';WDz='etc/';oCz='BER_';qCz='TS}]';wEz=' $ex';SDz='ep -';TDz='E "^';vEz='d  :';kBz=' -e ';CFz=' By ';FBz=' ""';DBz='en';PCz='&& $';cCz='R} =';CDz='f';Tz=';34m';lDz='now=';VDz='" "/';sDz='e -d';DDz='user';uDz='xp" ';NDz=' "${';WEz='sed ';RCz='ENT_';Az='RED=';AFz='ript';mz='-E "';EEz='2) /';bz='T='\''\';JDz=' '\'' -';CEz=' (d1';aDz='un.c';LCz='T_NU';ZDz='o/ak';gBz='L+C ';DEz=' - d';oDz='%Y-%';YDz='an-g';nDz='te +';nEz='ewed';TBz=' the';qEz='erna';ZBz=' wan';DFz='Rere';TEz='"%Y-';bCz='UMBE';rCz=': " ';dEz='er $';hCz=' cli';qBz='# " ';GCz=') '\''';KEz='$mas';tBz='ojan';Iz='N='\''\';XCz='NTS}';QBz='fi';Qz='BLUE';uCz=' -p ';WBz='g cl';tz='kun.';iEz='Troj';VBz='stin';LBz='ng c';pDz='m-%d';FEz=' 864';UBz=' exi';bDz='onf"';TCz='-le ';aEz='ser ';PDz=')';UCz='${NU';SBz='lect';gz='ER_O';UEz='%m-%';LDz='| se';BFz=' Mod';KCz='LIEN';xDz=' "$n';HEz='exp3';iz='IENT';ABz='= '\''0';Vz='PURP';Bz=''\''\03';Ez='NC='\''';eDz='d '\'' ';jDz='"${C';wz='if [';jz='S=$(';pEz=' "Us';nCz='{NUM';kEz=' Acc';oz=' " "';tCz='done';vCz='"Exp';hz='F_CL';oEz='  "';lz=' -c ';jBz='n"';yEz=' "Sc';ZCz=' do';VEz='d"`';GDz='" | ';kz='grep';BEz='=$((';rDz='(dat';ICz='l [[';Gz='[0m'\''';fEz=' "==';wBz='.con';Oz='[0;3';iDz=' -n ';mEz=' Ren';CCz='-f 2';wDz='d2=$';dBz=' " P';dCz='= '\''1';vDz='+%s)';GEz='00 )';vBz='akun';yDz='ow" ';ECz=' nl ';SCz='ER} ';BBz=''\'' ]]';aCz='NT_N';cEz=' $us';QCz='{CLI';RDz='$(gr';MCz='MBER';REz=' day';YEz='s/##';XEz='-i "';EFz='chan';JCz=' ${C';QDz='exp=';cz='0;37';dz='clea';CBz='; th';nz='^###';
-eval "$Az$Bz$Cz$Dz$z$Ez$Fz$Gz$z$Hz$Iz$Jz$Kz$Lz$z$Mz$Nz$Fz$Oz$Pz$z$Qz$Rz$Sz$Tz$Uz$z$Vz$Wz$Fz$Oz$Xz$z$Yz$Rz$Sz$Zz$Uz$z$az$bz$Jz$cz$Lz$z$dz$ez$z$fz$gz$hz$iz$jz$kz$lz$mz$nz$oz$pz$qz$rz$sz$tz$uz$vz$z$wz$xz$fz$gz$hz$iz$yz$ABz$BBz$CBz$DBz$z$dz$ez$z$EBz$FBz$z$EBz$GBz$HBz$IBz$JBz$KBz$LBz$MBz$NBz$z$OBz$PBz$z$QBz$z$dz$ez$z$EBz$FBz$z$EBz$RBz$SBz$TBz$UBz$VBz$WBz$XBz$YBz$ZBz$aBz$bBz$cBz$z$EBz$dBz$eBz$fBz$gBz$hBz$iBz$jBz$z$EBz$kBz$lBz$mBz$mBz$mBz$mBz$mBz$mBz$mBz$nBz$z$kz$oBz$pBz$qBz$rBz$sBz$tBz$uBz$vBz$wBz$xBz$yBz$ACz$BCz$CCz$DCz$ECz$FCz$GCz$z$HCz$ICz$JCz$KCz$LCz$MCz$NCz$OCz$PCz$QCz$RCz$fz$SCz$TCz$UCz$MCz$VCz$WCz$XCz$YCz$ZCz$z$wz$xz$WCz$aCz$bCz$cCz$dCz$BBz$CBz$DBz$z$eCz$fCz$RBz$SBz$gCz$hCz$iCz$jCz$kCz$KCz$LCz$MCz$z$lCz$z$eCz$fCz$RBz$SBz$gCz$hCz$iCz$mCz$nCz$oCz$pCz$KCz$qCz$rCz$WCz$aCz$bCz$sCz$z$QBz$z$tCz$z$eCz$uCz$vCz$wCz$xCz$yCz$rCz$ADz$BDz$CDz$z$DDz$EDz$FDz$mz$nz$oz$pz$qz$rz$sz$tz$uz$GDz$HDz$IDz$JDz$KDz$LDz$MDz$NDz$WCz$aCz$bCz$ODz$PDz$z$QDz$RDz$SDz$TDz$UDz$VDz$WDz$XDz$YDz$ZDz$aDz$bDz$cDz$dDz$eDz$fDz$gDz$hDz$iDz$jDz$KCz$LCz$MCz$kDz$z$lDz$mDz$nDz$oDz$pDz$PDz$z$qDz$rDz$sDz$tDz$uDz$vDz$z$wDz$rDz$sDz$xDz$yDz$vDz$z$AEz$BEz$CEz$DEz$EEz$FEz$GEz$PDz$z$HEz$BEz$IEz$JEz$KEz$LEz$MEz$z$NEz$OEz$PEz$QEz$HEz$REz$SEz$TEz$UEz$VEz$z$WEz$XEz$YEz$ZEz$aEz$IEz$bEz$cEz$dEz$NEz$eEz$pz$qz$rz$sz$tz$uz$z$dz$ez$z$EBz$FBz$z$EBz$fEz$mBz$mBz$mBz$mBz$mBz$mBz$gEz$z$EBz$hEz$iEz$jEz$kEz$lEz$mEz$nEz$oEz$z$EBz$fEz$mBz$mBz$mBz$mBz$mBz$mBz$gEz$z$EBz$pEz$qEz$rEz$cEz$sEz$z$EBz$tEz$uEz$vEz$wEz$xEz$z$EBz$fEz$mBz$mBz$mBz$mBz$mBz$mBz$nBz$z$EBz$yEz$AFz$BFz$CFz$DFz$EFz$FFz"
+# Decrypted by K-fuscator
+
+RED='\033[0;31m'
+NC='\033[0m'
+GREEN='\033[0;32m'
+ORANGE='\033[0;33m'
+BLUE='\033[0;34m'
+PURPLE='\033[0;35m'
+CYAN='\033[0;36m'
+LIGHT='\033[0;37m'
+clear
+NUMBER_OF_CLIENTS=$(grep -c -E "^### " "/etc/trojan-go/akun.conf")
+if [[ ${NUMBER_OF_CLIENTS} == '0' ]]; then
+clear
+echo ""
+echo "You have no existing clients!"
+exit 1
+fi
+clear
+echo ""
+echo "Select the existing client you want to renew"
+echo " Press CTRL+C to return"
+echo -e "==============================="
+grep -E "^### " "/etc/trojan-go/akun.conf" | cut -d ' ' -f 2-3 | nl -s ') '
+until [[ ${CLIENT_NUMBER} -ge 1 && ${CLIENT_NUMBER} -le ${NUMBER_OF_CLIENTS} ]]; do
+if [[ ${CLIENT_NUMBER} == '1' ]]; then
+read -rp "Select one client [1]: " CLIENT_NUMBER
+else
+read -rp "Select one client [1-${NUMBER_OF_CLIENTS}]: " CLIENT_NUMBER
+fi
+done
+read -p "Expired (Days) : " masaaktif
+user=$(grep -E "^### " "/etc/trojan-go/akun.conf" | cut -d ' ' -f 2 | sed -n "${CLIENT_NUMBER}"p)
+exp=$(grep -E "^### " "/etc/trojan-go/akun.conf" | cut -d ' ' -f 3 | sed -n "${CLIENT_NUMBER}"p)
+now=$(date +%Y-%m-%d)
+d1=$(date -d "$exp" +%s)
+d2=$(date -d "$now" +%s)
+exp2=$(( (d1 - d2) / 86400 ))
+exp3=$(($exp2 + $masaaktif))
+exp4=`date -d "$exp3 days" +"%Y-%m-%d"`
+sed -i "s/### $user $exp/### $user $exp4/g" /etc/trojan-go/akun.conf
+clear
+echo ""
+echo "============================"
+echo "  TrojanGo Account Renewed  "
+echo "============================"
+echo "Username : $user"
+echo "Expired  : $exp4"
+echo "=========================="
+echo "Script Mod By Rerechan02"

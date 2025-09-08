@@ -1,3 +1,30 @@
-z="
-";qBz='$AKU';fCz='\n" ';EBz=' "US';sCz='"${G';xz='    ';pCz='ORMA';CCz='$2}'\''';YBz='-f1)';MCz='[ $I';VDz=' -l)';mz=' -e ';TDz='swd ';cBz='expi';QBz='do';VBz='d | ';oCz='D${N';CDz='JUML';Zz=': //';vz='0;41';ICz=' -S ';uCz='}UNL';CBz='  \E';iCz='"$ex';gz='d" -';nCz='OCKE';NDz='dy" ';BDz='wd';lCz='"${R';gDz='-p "';Nz='/goo';yBz=': " ';ADz='pass';cCz='s %-';OCz='e 10';lDz=' bac';Jz='--si';tz='"';RBz='AKUN';IDz=' 100';MBz='e re';Fz='l -v';QDz='1}'\'' ';nBz='"$(c';dBz='red ';JBz='  ST';fz='%m-%';Ez='(cur';az=''\'')';kBz='d: -';gCz='"$AK';JCz='awk ';Az='date';HBz='EXP ';mBz='exp=';DDz='AH="';iBz=' | c';EDz='$(aw';BBz='SSH ';Uz='e | ';HCz='sswd';eBz='| gr';FBz='ERNA';IBz='DATE';UBz='pire';dCz='17s ';yz=' MEM';oBz='hage';hDz='Pres';MDz='nobo';sBz=' "Ac';PCz='00 ]';vBz='s" |';hCz='UN" ';LDz='!= "';iDz='s an';bCz='s %2';qz='━━━━';PDz='nt $';sz='3[0m';ABz='BER ';WCz='; th';dz='te +';SBz='="$(';XCz='en';RCz='hen';uBz='t ex';Iz='ure ';Gz=' --i';aBz='$(ec';gBz='v no';SCz='[ "$';uz='"\E[';SDz='/pas';FDz='k -F';cDz='read';LCz='if [';lBz='f3)"';NBz='ad e';ODz='{pri';Mz='ps:/';qCz='L}"';Hz='nsec';YCz='prin';Cz='Serv';LBz='whil';XBz='-d: ';fDz=' -r ';kDz='y to';OBz='xpir';WDz='t nu';Rz='1 | ';cz='=`da';DBz='[0m"';wz=';36m';BCz='int ';rBz='N | ';jz='clea';RDz='/etc';lz='echo';rCz='else';ECz='stat';Yz='Date';pz='34m━';vCz='fi';Vz='sed ';bBz='ho $';ZBz='ID="';eCz='%2s ';QCz=']; t';DCz=')"';Oz='gle.';TCz='us" ';nz='"\03';hz='d "$';mDz='k on';VCz='" ]]';pBz=' -l ';GBz='ME  ';xBz=' -F"';wCz='done';dDz=' -n ';YDz=': $J';bDz='er"';GCz='$(pa';aCz='%-17';ez='"%Y-';oz='3[0;';tCz='REEN';Pz='com/';XDz='mber';oDz='u"';GDz=': '\''$';iz='er"`';NCz='D -g';WBz='cut ';jCz='p   ';Kz='lent';Dz='er=$';eDz='1 -s';PBz='ed';hBz='body';mCz='ED}L';Xz='s/< ';aDz='H us';KCz=' )"';Lz=' htt';fBz='ep -';xCz=' < /';Tz=' Dat';Wz='-e '\''';rz='━\03';kCz='  " ';Sz='grep';jDz='y ke';KBz='ATUS';JDz='0 &&';UDz='| wc';HDz='3 >=';ZCz='tf "';TBz=' $ex';Qz=' 2>&';yCz='etc/';ZDz='UMLA';tBz='coun';KDz=' $1 ';Bz='From';wBz=' awk';nDz=' men';ACz=''\''{pr';UCz='= "L';jBz='ut -';pDz='menu';kz='r';FCz='us="';bz='biji';
-eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Zz$az$z$bz$cz$dz$ez$fz$gz$hz$Az$Bz$Cz$iz$z$jz$kz$z$lz$mz$nz$oz$pz$qz$qz$qz$qz$qz$qz$qz$qz$qz$qz$rz$sz$tz$z$lz$mz$uz$vz$wz$xz$xz$xz$xz$yz$ABz$BBz$xz$xz$xz$CBz$DBz$z$lz$mz$nz$oz$pz$qz$qz$qz$qz$qz$qz$qz$qz$qz$qz$rz$sz$tz$z$lz$EBz$FBz$GBz$xz$xz$HBz$IBz$xz$xz$JBz$KBz$tz$z$lz$mz$nz$oz$pz$qz$qz$qz$qz$qz$qz$qz$qz$qz$qz$rz$sz$tz$z$LBz$MBz$NBz$OBz$PBz$z$QBz$z$RBz$SBz$lz$TBz$UBz$VBz$WBz$XBz$YBz$tz$z$ZBz$aBz$bBz$cBz$dBz$eBz$fBz$gBz$hBz$iBz$jBz$kBz$lBz$z$mBz$nBz$oBz$pBz$qBz$rBz$Sz$sBz$tBz$uBz$UBz$vBz$wBz$xBz$yBz$ACz$BCz$CCz$DCz$z$ECz$FCz$GCz$HCz$ICz$qBz$rBz$JCz$ACz$BCz$CCz$KCz$z$LCz$MCz$NCz$OCz$PCz$QCz$RCz$z$LCz$SCz$ECz$TCz$UCz$VCz$WCz$XCz$z$YCz$ZCz$aCz$bCz$cCz$dCz$eCz$fCz$gCz$hCz$iCz$jCz$kCz$lCz$mCz$nCz$oCz$pCz$qCz$z$rCz$z$YCz$ZCz$aCz$bCz$cCz$dCz$eCz$fCz$gCz$hCz$iCz$jCz$kCz$sCz$tCz$uCz$nCz$oCz$pCz$qCz$z$vCz$z$vCz$z$wCz$xCz$yCz$ADz$BDz$z$CDz$DDz$EDz$FDz$GDz$HDz$IDz$JDz$KDz$LDz$MDz$NDz$ODz$PDz$QDz$RDz$SDz$TDz$UDz$VDz$tz$z$lz$mz$nz$oz$pz$qz$qz$qz$qz$qz$qz$qz$qz$qz$qz$rz$sz$tz$z$lz$sBz$tBz$WDz$XDz$YDz$ZDz$aDz$bDz$z$lz$mz$nz$oz$pz$qz$qz$qz$qz$qz$qz$qz$qz$qz$qz$rz$sz$tz$z$cDz$dDz$eDz$fDz$gDz$hDz$iDz$jDz$kDz$lDz$mDz$nDz$oDz$z$pDz"
+# Decrypted by K-fuscator
+
+dateFromServer=$(curl -v --insecure --silent https://google.com/ 2>&1 | grep Date | sed -e 's/< Date: //')
+biji=`date +"%Y-%m-%d" -d "$dateFromServer"`
+clear
+echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e "\E[0;41;36m                 MEMBER SSH               \E[0m"
+echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo "USERNAME          EXP DATE          STATUS"
+echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+while read expired
+do
+AKUN="$(echo $expired | cut -d: -f1)"
+ID="$(echo $expired | grep -v nobody | cut -d: -f3)"
+exp="$(chage -l $AKUN | grep "Account expires" | awk -F": " '{print $2}')"
+status="$(passwd -S $AKUN | awk '{print $2}' )"
+if [[ $ID -ge 1000 ]]; then
+if [[ "$status" = "L" ]]; then
+printf "%-17s %2s %-17s %2s \n" "$AKUN" "$exp     " "${RED}LOCKED${NORMAL}"
+else
+printf "%-17s %2s %-17s %2s \n" "$AKUN" "$exp     " "${GREEN}UNLOCKED${NORMAL}"
+fi
+fi
+done < /etc/passwd
+JUMLAH="$(awk -F: '$3 >= 1000 && $1 != "nobody" {print $1}' /etc/passwd | wc -l)"
+echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo "Account number: $JUMLAH user"
+echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+read -n 1 -s -r -p "Press any key to back on menu"
+menu

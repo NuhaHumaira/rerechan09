@@ -1,3 +1,15 @@
-z="
-";Pz=' ""';Uz='nfo\';Dz='-qO-';dz='oc/s';bz=' 1 >';Fz='nfo.';nz=' ] C';gz='op_c';Wz=' Cle';xz='menu';Rz='"[ \';oz=' cle';kz='32mo';vz='sec ';fz='m/dr';Lz='ng V';Xz='ar R';pz='ared';jz='p 3';Oz='r';rz='ck t';tz='nu i';uz='n 2 ';Kz='ecki';Yz='AM C';iz='slee';hz='s';cz=' /pr';az='"';Nz='clea';Zz='ache';Ez=' ipi';Iz='echo';Bz='=$(w';Tz='32mI';Hz='p);';Jz=' "Ch';qz=' "Ba';Qz=' -e ';Sz='033[';lz='k\03';Gz='io/i';Cz='get ';Vz='0m ]';sz='o me';Az='MYIP';ez='ys/v';mz='3[0m';Mz='PS"';wz='p 2';
-eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$z$Iz$Jz$Kz$Lz$Mz$z$Nz$Oz$z$Iz$Pz$z$Iz$Pz$z$Iz$Qz$Rz$Sz$Tz$Uz$Sz$Vz$Wz$Xz$Yz$Zz$az$z$Iz$bz$cz$dz$ez$fz$gz$Zz$hz$z$iz$jz$z$Iz$Qz$Rz$Sz$kz$lz$mz$nz$Zz$oz$pz$az$z$Iz$Pz$z$Iz$qz$rz$sz$tz$uz$vz$az$z$iz$wz$z$xz"
+# Decrypted by K-fuscator
+
+MYIP=$(wget -qO- ipinfo.io/ip);
+echo "Checking VPS"
+clear
+echo ""
+echo ""
+echo -e "[ \033[32mInfo\033[0m ] Clear RAM Cache"
+echo 1 > /proc/sys/vm/drop_caches
+sleep 3
+echo -e "[ \033[32mok\033[0m ] Cache cleared"
+echo ""
+echo "Back to menu in 2 sec "
+sleep 2
+menu

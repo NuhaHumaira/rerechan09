@@ -1,3 +1,78 @@
-z="
-";rDz='VPN=';Dz='er=$';dFz='ull';xCz='sqd=';Hz='nsec';qGz='/TLS';BFz='in/f';CBz='ekra';DHz='nVPN';Lz=' htt';fFz='`ps ';IHz='tp:/';ZGz='"Hos';uEz='days';TFz=' -e ';qEz=' -d ';KFz='p "A';sBz='root';nz='t/lo';JEz='v/ur';AHz=': 71';QEz='ad -';SDz='(net';gHz='l-me';YDz=' ope';cFz='ev/n';LFz='ccou';sEz='saak';WCz='int ';VHz=' -r ';pz='stal';dEz=': $L';dCz='" | ';kBz=' -f2';DGz=';36m';gEz='p 0.';xEz='m-%d';RDz='2="$';bHz=' bac';WDz=' gre';LBz='/dom';PGz='d : ';lBz=' | a';KGz='"Use';mDz='OhpD';IGz='   \';Oz='gle.';hFz='|gre';UCz='awk ';hCz='| aw';sDz='`cat';WFz='$Pas';eBz='SSH ';JDz='i 0.';uBz='clea';wDz='nsta';KBz='xray';cEz='Akun';Ez='(cur';nDz='B=`c';pFz='${PI';jGz=': $p';iDz='OhpS';WEz='echo';aGz='t : ';yz='q`';dDz=' awk';YBz='-ins';Uz='e | ';sGz='"Por';aCz=' -w ';Pz='com/';ZEz='st';QCz='| cu';RCz='t -f';vEz='" +"';qFz='D}" ';OGz='"Pas';TGz=' On ';AEz='p -w';dHz=' men';GCz='oot/';vBz='r';IFz=' -l ';hEz='5';sz=' -ow';bCz='"Ope';ez='"%Y-';wBz='IP=$';NHz='vpn"';UHz='1 -s';lCz='}'\''`';HBz='n=`c';WBz='at ~';ODz='ut -';bGz='$dom';wz='rt |';Rz='1 | ';JHz='/$do';qCz='1,$2';dGz=' : $';lz='cat ';pCz='r" |';MGz='e : ';RFz=' $2}';qDz='OhpO';qBz='wsss';MBz='ain`';fCz='-f2 ';ECz='=`ca';Nz='/goo';VEz='=1';RGz='"Exp';AFz='s /b';rEz='"$ma';hDz=''\'' | ';Vz='sed ';oEz='add ';RBz='`';pBz='1}'\''`';TEz='="1"';mGz='-SSL';gGz='db"';xDz='ll.t';tGz='t Sq';kGz='orts';nCz='"Dro';wFz='━━━━';nBz='{pri';FBz='hen';BDz=')"';fBz='Webs';GGz='L SS';MDz='$4}'\''';hBz='t" |';XHz='Pres';kDz='"OHP';SFz=''\'')"';MCz='ep -';aFz='in &';ZHz='y ke';Jz='--si';REz='c4`';aDz='-i 0';rGz='ssl"';UFz='"$Pa';TDz='stat';oDz='OHP ';GBz='dome';tEz='tif ';XGz=': $I';VGz='xp"';GEz='n=tr';yDz='xt |';VFz='ss\n';ZBz='tall';gCz='-d: ';NFz='xpir';MHz='cp.o';uGz='uid ';mz='/roo';lGz='shws';XBz='/log';PCz='PN" ';HGz='H   ';JGz='E[0m';FGz='TRIA';LGz='rnam';QFz='": "';jz='cekr';UGz=': $e';Zz=': //';QBz='main';uz='AY" ';oz='g-in';JCz='all.';OFz='es" ';CEz='P Op';uFz='3[0;';nGz=': $w';QHz='dp.o';EDz='nets';rz='t | ';xBz='l -s';bz='biji';kFz=' ssh';CGz='0;41';uDz='ot/l';IBz='at /';cCz='nSSH';CDz='ovpn';bDz='.0.0';ADz='d" |';VDz='pu |';jDz='SH=`';SEz='hari';nFz='[ ! ';Wz='-e '\''';DCz='ossl';xFz='━━\0';YGz='P"';jEz='ting';cBz='rep ';HCz='log-';BBz=' "$c';yCz='Squi';EEz='N" |';ICz='inst';SHz='read';vCz='-f2)';EGz='    ';DEz='enVP';Kz='lent';GHz='fig ';EBz=']; t';FDz='tat ';eCz='cut ';YFz='|pas';dBz='-w "';PEz='| he';vFz='34m━';tz=' "XR';WGz='"IP ';fz='%m-%';GDz='-nlp';EFz='$Log';tDz=' /ro';HDz=' -i ';VBz='s=`c';XEz=' Pin';Mz='ps:/';PBz='y/do';bFz='> /d';eDz=' '\''{p';OHz=' UCP';rCz='ssl=';yGz='GW  ';uCz='nel4';PFz='k -F';iFz='p -v';XDz='p -i';oBz='nt $';jFz='p | ';NGz='in"';dz='te +';PHz='81/u';ACz='conf';ZDz='nvpn';Bz='From';TCz=': | ';JBz='etc/';xGz='"UDP';hz='d "$';lDz=' SSH';HFz='hage';fHz='tria';Gz=' --i';CCz='e);';DBz='y" =';THz=' -n ';eEz='ogin';ZCz='sh=`';Yz='Date';Tz=' Dat';pGz='"SSL';fGz='r: $';SBz='fi';az=''\'')';bEz='ate ';UBz='sshw';YEz='g Ho';MFz='nt e';YHz='s an';UDz=' -nl';lEz='swor';DDz='="$(';KCz='txt ';FFz='in';UEz='Pass';yEz='"` -';IEz='</de';aHz='y to';GFz='exp=';BGz='"\E[';MEz=' -dc';IDz='vpn ';ABz='if [';hGz='"SSH';OBz='v2ra';XCz='$6}'\''';Qz=' 2>&';KDz='0.0.';gDz=' $4}';sFz='then';NBz='else';mBz='wk '\''';XFz='s\n"';jCz='prin';FEz='Logi';BEz=' "OH';wGz='qd"';FCz='t /r';cz='=`da';hHz='nu';VCz=''\''{pr';vz='| so';oCz='pbea';iBz=' cut';vDz='og-i';oFz='-z "';OEz='0-9 ';NDz=' | c';eGz='sh"';NEz=' X-Z';iz='er"`';jBz=' -d:';tBz='SSL ';HHz=': ht';bBz=' | g';Az='date';kCz='t $1';mEz='d: $';yFz='33[0';iCz='k '\''{';qz='l.tx';SGz='ired';gBz='ocke';lFz='ws |';TBz='port';cDz='.0 |';PDz='d: -';WHz='-p "';ZFz='swd ';SCz='2 -d';YCz='open';AGz='m"';pEz='-e `';Xz='s/< ';mCz='db=`';CFz='alse';Fz='l -v';fDz='rint';fEz='slee';eHz='u"';OCz='penV';DFz=' -M ';pDz='DBea';BHz='00-7';LCz='| gr';EHz=' TCP';LHz='81/t';KEz='ando';QGz='s"';JFz='in |';NCz='w "O';xz=' uni';nEz='user';rBz='l=`c';gFz='-ef ';aBz='.txt';oGz='sssl';RHz=' ""';cGz='en"';wEz='%Y-%';HEz='ial`';FHz=' Con';gz='d" -';cHz='k on';kz='ay=`';kEz=' Pas';CHz='900"';wCz='"';vGz=': $s';sCz='"$(c';QDz='f2)"';LDz='0 | ';aEz=' Cre';tFz='"\03';KHz='men:';iEz=' Set';iGz='-WS ';LEz='m tr';tCz='Stun';Cz='Serv';Sz='grep';yBz='S if';Iz='ure ';eFz='PID=';mFz='$2}'\''';rFz=']]; ';BCz='ig.m';
-eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Zz$az$z$bz$cz$dz$ez$fz$gz$hz$Az$Bz$Cz$iz$z$jz$kz$lz$mz$nz$oz$pz$qz$rz$Sz$sz$tz$uz$vz$wz$xz$yz$z$ABz$BBz$CBz$DBz$tz$uz$EBz$FBz$z$GBz$HBz$IBz$JBz$KBz$LBz$MBz$z$NBz$z$GBz$HBz$IBz$JBz$OBz$PBz$QBz$RBz$z$SBz$z$TBz$UBz$VBz$WBz$XBz$YBz$ZBz$aBz$bBz$cBz$dBz$eBz$fBz$gBz$hBz$iBz$jBz$kBz$lBz$mBz$nBz$oBz$pBz$z$qBz$rBz$IBz$sBz$XBz$YBz$ZBz$aBz$bBz$cBz$dBz$eBz$tBz$fBz$gBz$hBz$iBz$jBz$kBz$lBz$mBz$nBz$oBz$pBz$z$uBz$vBz$z$wBz$Ez$xBz$yBz$ACz$BCz$CCz$z$DCz$ECz$FCz$GCz$HCz$ICz$JCz$KCz$LCz$MCz$NCz$OCz$PCz$QCz$RCz$SCz$TCz$UCz$VCz$WCz$XCz$RBz$z$YCz$ZCz$lz$mz$nz$oz$pz$qz$rz$Sz$aCz$bCz$cCz$dCz$eCz$fCz$gCz$hCz$iCz$jCz$kCz$lCz$z$mCz$lz$mz$nz$oz$pz$qz$rz$Sz$aCz$nCz$oCz$pCz$iBz$kBz$jBz$lBz$mBz$nBz$oBz$qCz$lCz$z$rCz$sCz$WBz$XBz$YBz$ZBz$aBz$bBz$cBz$dBz$tCz$uCz$dCz$eCz$gCz$vCz$wCz$z$xCz$sCz$WBz$XBz$YBz$ZBz$aBz$bBz$cBz$dBz$yCz$ADz$iBz$jBz$kBz$BDz$z$CDz$DDz$EDz$FDz$GDz$rz$Sz$HDz$YCz$IDz$LCz$MCz$JDz$KDz$LDz$UCz$VCz$WCz$MDz$NDz$ODz$PDz$QDz$z$CDz$RDz$SDz$TDz$UDz$VDz$WDz$XDz$YDz$ZDz$bBz$cBz$aDz$bDz$cDz$dDz$eDz$fDz$gDz$hDz$eCz$gCz$vCz$wCz$z$iDz$jDz$lz$mz$nz$oz$pz$qz$rz$Sz$aCz$kDz$lDz$dCz$eCz$gCz$fCz$hCz$iCz$jCz$kCz$lCz$z$mDz$nDz$IBz$sBz$XBz$YBz$ZBz$aBz$bBz$cBz$dBz$oDz$pDz$pCz$iBz$jBz$kBz$lBz$mBz$nBz$oBz$pBz$z$qDz$rDz$sDz$tDz$uDz$vDz$wDz$xDz$yDz$WDz$AEz$BEz$CEz$DEz$EEz$iBz$jBz$kBz$lBz$mBz$nBz$oBz$pBz$z$FEz$GEz$HEz$IEz$JEz$KEz$LEz$MEz$NEz$OEz$PEz$QEz$REz$z$SEz$TEz$z$UEz$VEz$z$WEz$XEz$YEz$ZEz$z$WEz$aEz$bEz$cEz$dEz$eEz$z$fEz$gEz$hEz$z$WEz$iEz$jEz$kEz$lEz$mEz$UEz$z$fEz$gEz$hEz$z$uBz$vBz$z$nEz$oEz$pEz$Az$qEz$rEz$sEz$tEz$uEz$vEz$wEz$xEz$yEz$AFz$BFz$CFz$DFz$EFz$FFz$z$GFz$sCz$HFz$IFz$EFz$JFz$WDz$KFz$LFz$MFz$NFz$OFz$hCz$PFz$QFz$eDz$fDz$RFz$SFz$z$WEz$TFz$UFz$VFz$WFz$XFz$YFz$ZFz$EFz$aFz$bFz$cFz$dFz$z$eFz$fFz$gFz$hFz$iFz$WDz$jFz$Sz$kFz$lFz$UCz$VCz$WCz$mFz$RBz$z$ABz$nFz$oFz$pFz$qFz$rFz$sFz$z$WEz$TFz$tFz$uFz$vFz$wFz$wFz$wFz$wFz$wFz$wFz$wFz$wFz$xFz$yFz$AGz$z$WEz$TFz$BGz$CGz$DGz$EGz$EGz$EGz$FGz$GGz$HGz$EGz$EGz$IGz$JGz$wCz$z$WEz$TFz$tFz$uFz$vFz$wFz$wFz$wFz$wFz$wFz$wFz$wFz$wFz$xFz$yFz$AGz$z$WEz$TFz$KGz$LGz$MGz$EFz$NGz$z$WEz$TFz$OGz$lEz$PGz$WFz$QGz$z$WEz$TFz$RGz$SGz$TGz$UGz$VGz$z$WEz$TFz$tFz$uFz$vFz$wFz$wFz$wFz$wFz$wFz$wFz$wFz$wFz$xFz$yFz$AGz$z$WEz$TFz$WGz$XGz$YGz$z$WEz$TFz$ZGz$aGz$bGz$cGz$z$WEz$TFz$bCz$cCz$dGz$YCz$eGz$z$WEz$TFz$nCz$oCz$fGz$gGz$z$WEz$TFz$hGz$iGz$jGz$kGz$lGz$wCz$z$WEz$TFz$hGz$mGz$iGz$nGz$oGz$wCz$z$WEz$TFz$pGz$qGz$dGz$rGz$z$WEz$TFz$sGz$tGz$uGz$vGz$wGz$z$WEz$TFz$xGz$yGz$AHz$BHz$CHz$z$WEz$TFz$tFz$uFz$vFz$wFz$wFz$wFz$wFz$wFz$wFz$wFz$wFz$xFz$yFz$AGz$z$WEz$TFz$bCz$DHz$EHz$FHz$GHz$HHz$IHz$JHz$KHz$LHz$MHz$NHz$z$WEz$TFz$bCz$DHz$OHz$FHz$GHz$HHz$IHz$JHz$KHz$PHz$QHz$NHz$z$WEz$TFz$tFz$uFz$vFz$wFz$wFz$wFz$wFz$wFz$wFz$wFz$wFz$xFz$yFz$AGz$z$NBz$z$WEz$TFz$tFz$uFz$vFz$wFz$wFz$wFz$wFz$wFz$wFz$wFz$wFz$xFz$yFz$AGz$z$WEz$TFz$BGz$CGz$DGz$EGz$EGz$EGz$FGz$GGz$HGz$EGz$EGz$IGz$JGz$wCz$z$WEz$TFz$tFz$uFz$vFz$wFz$wFz$wFz$wFz$wFz$wFz$wFz$wFz$xFz$yFz$AGz$z$WEz$TFz$KGz$LGz$MGz$EFz$NGz$z$WEz$TFz$OGz$lEz$PGz$WFz$QGz$z$WEz$TFz$RGz$SGz$TGz$UGz$VGz$z$WEz$TFz$tFz$uFz$vFz$wFz$wFz$wFz$wFz$wFz$wFz$wFz$wFz$xFz$yFz$AGz$z$WEz$TFz$ZGz$aGz$bGz$cGz$z$WEz$TFz$bCz$cCz$dGz$YCz$eGz$z$WEz$TFz$nCz$oCz$fGz$gGz$z$WEz$TFz$hGz$iGz$jGz$kGz$lGz$wCz$z$WEz$TFz$hGz$mGz$iGz$nGz$oGz$wCz$z$WEz$TFz$pGz$qGz$dGz$rGz$z$WEz$TFz$xGz$yGz$AHz$BHz$CHz$z$WEz$TFz$tFz$uFz$vFz$wFz$wFz$wFz$wFz$wFz$wFz$wFz$wFz$xFz$yFz$AGz$z$SBz$z$WEz$RHz$z$SHz$THz$UHz$VHz$WHz$XHz$YHz$ZHz$aHz$bHz$cHz$dHz$eHz$z$fHz$gHz$hHz"
+# Decrypted by K-fuscator
+
+dateFromServer=$(curl -v --insecure --silent https://google.com/ 2>&1 | grep Date | sed -e 's/< Date: //')
+biji=`date +"%Y-%m-%d" -d "$dateFromServer"`
+cekray=`cat /root/log-install.txt | grep -ow "XRAY" | sort | uniq`
+if [ "$cekray" = "XRAY" ]; then
+domen=`cat /etc/xray/domain`
+else
+domen=`cat /etc/v2ray/domain`
+fi
+portsshws=`cat ~/log-install.txt | grep -w "SSH Websocket" | cut -d: -f2 | awk '{print $1}'`
+wsssl=`cat /root/log-install.txt | grep -w "SSH SSL Websocket" | cut -d: -f2 | awk '{print $1}'`
+clear
+IP=$(curl -sS ifconfig.me);
+ossl=`cat /root/log-install.txt | grep -w "OpenVPN" | cut -f2 -d: | awk '{print $6}'`
+opensh=`cat /root/log-install.txt | grep -w "OpenSSH" | cut -f2 -d: | awk '{print $1}'`
+db=`cat /root/log-install.txt | grep -w "Dropbear" | cut -f2 -d: | awk '{print $1,$2}'`
+ssl="$(cat ~/log-install.txt | grep -w "Stunnel4" | cut -d: -f2)"
+sqd="$(cat ~/log-install.txt | grep -w "Squid" | cut -d: -f2)"
+ovpn="$(netstat -nlpt | grep -i openvpn | grep -i 0.0.0.0 | awk '{print $4}' | cut -d: -f2)"
+ovpn2="$(netstat -nlpu | grep -i openvpn | grep -i 0.0.0.0 | awk '{print $4}' | cut -d: -f2)"
+OhpSSH=`cat /root/log-install.txt | grep -w "OHP SSH" | cut -d: -f2 | awk '{print $1}'`
+OhpDB=`cat /root/log-install.txt | grep -w "OHP DBear" | cut -d: -f2 | awk '{print $1}'`
+OhpOVPN=`cat /root/log-install.txt | grep -w "OHP OpenVPN" | cut -d: -f2 | awk '{print $1}'`
+Login=trial`</dev/urandom tr -dc X-Z0-9 | head -c4`
+hari="1"
+Pass=1
+echo Ping Host
+echo Create Akun: $Login
+sleep 0.5
+echo Setting Password: $Pass
+sleep 0.5
+clear
+useradd -e `date -d "$masaaktif days" +"%Y-%m-%d"` -s /bin/false -M $Login
+exp="$(chage -l $Login | grep "Account expires" | awk -F": " '{print $2}')"
+echo -e "$Pass\n$Pass\n"|passwd $Login &> /dev/null
+PID=`ps -ef |grep -v grep | grep sshws |awk '{print $2}'`
+if [[ ! -z "${PID}" ]]; then
+echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e "\E[0;41;36m            TRIAL SSH              \E[0m"
+echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e "Username : $Login"
+echo -e "Password : $Pass"
+echo -e "Expired On : $exp"
+echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e "IP : $IP"
+echo -e "Host : $domen"
+echo -e "OpenSSH : $opensh"
+echo -e "Dropbear: $db"
+echo -e "SSH-WS : $portsshws"
+echo -e "SSH-SSL-WS : $wsssl"
+echo -e "SSL/TLS : $ssl"
+echo -e "Port Squid : $sqd"
+echo -e "UDPGW  : 7100-7900"
+echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e "OpenVPN TCP Config : http://$domen:81/tcp.ovpn"
+echo -e "OpenVPN UCP Config : http://$domen:81/udp.ovpn"
+echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+else
+echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e "\E[0;41;36m            TRIAL SSH              \E[0m"
+echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e "Username : $Login"
+echo -e "Password : $Pass"
+echo -e "Expired On : $exp"
+echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e "Host : $domen"
+echo -e "OpenSSH : $opensh"
+echo -e "Dropbear: $db"
+echo -e "SSH-WS : $portsshws"
+echo -e "SSH-SSL-WS : $wsssl"
+echo -e "SSL/TLS : $ssl"
+echo -e "UDPGW  : 7100-7900"
+echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+fi
+echo ""
+read -n 1 -s -r -p "Press any key to back on menu"
+trial-menu

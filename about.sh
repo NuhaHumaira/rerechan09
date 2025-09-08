@@ -1,3 +1,12 @@
-z="
-";Nz='clea';Jz=' "Ch';Ez=' ipi';oz='g-in';az='    ';vz='1 -s';Oz='r';Rz='33m ';cz='Auto';uz=' -n ';BBz='y ke';gz='rech';Wz='" \e';Zz='3m  ';pz='stal';HBz='menu';Sz='━━━━';Fz='nfo.';hz='an02';jz='  \e';GBz='u"';wz=' -r ';Lz='ng V';DBz=' bac';yz='Pres';mz='/roo';Uz='33[0';Mz='PS"';tz='read';Vz='m"';Cz='get ';lz='cat ';Dz='-qO-';ABz='s an';rz='t';Bz='=$(w';CBz='y to';Yz='00;3';FBz=' men';Hz='p);';xz='-p "';fz='y Re';sz=' ""';Iz='echo';Xz='[0;1';Qz='"\e[';kz='[0m"';iz=' •  ';EBz='k on';Az='MYIP';Kz='ecki';ez='pt b';Gz='io/i';Tz='━━\0';Pz=' -e ';nz='t/lo';dz='Scri';qz='l.tx';bz='  • ';
-eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$z$Iz$Jz$Kz$Lz$Mz$z$Nz$Oz$z$Iz$Pz$Qz$Rz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Tz$Uz$Vz$z$Iz$Pz$Wz$Xz$Yz$Zz$az$bz$cz$dz$ez$fz$gz$hz$iz$az$az$jz$kz$z$Iz$Pz$Qz$Rz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Tz$Uz$Vz$z$lz$mz$nz$oz$pz$qz$rz$z$Iz$sz$z$tz$uz$vz$wz$xz$yz$ABz$BBz$CBz$DBz$EBz$FBz$GBz$z$HBz"
+# Decrypted by K-fuscator
+
+MYIP=$(wget -qO- ipinfo.io/ip);
+echo "Checking VPS"
+clear
+echo -e "\e[33m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e " \e[0;100;33m        • AutoScript by Rerechan02 •            \e[0m"
+echo -e "\e[33m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+cat /root/log-install.txt
+echo ""
+read -n 1 -s -r -p "Press any key to back on menu"
+menu

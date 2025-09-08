@@ -1,3 +1,33 @@
-z="
-";WBz=' Log';Sz='━━━━';DCz=' $op';BCz='opt';IBz='] Ex';HBz='m•3\';mBz='r [ ';vz='Webs';eBz='[31m';TBz='] Ch';Bz='=$(w';tCz='menu';Xz='0;10';SBz='m•5\';qCz='; sl';lz='e[36';oBz='+C ]';QCz='3) c';tBz='read';rCz='eep ';YBz='RAY ';WCz=';';PBz='m•4\';KBz='ing ';PCz='vmes';Wz='"\E[';hCz='xit ';rBz='it"';JCz='s ; ';FBz=' Vme';jz='""';XCz='4) c';hBz='MENU';DBz='unt ';mz='m•1\';MCz='2) c';nCz='lah ';NBz='e Li';iBz='\033';gCz='x) e';cz='AY /';Uz='33[0';vBz='" Se';bBz='e[31';nBz='Ctrl';Oz='r';yz='m•2\';VCz='it ;';uz='ess ';JBz='tend';ICz='dd-w';GCz='lear';qz=' Acc';aBz='s "';eCz=' ; m';pCz='n " ';Jz=' "Ch';dBz='] \e';rz='ount';EBz='XRAY';VBz='User';Yz='0;33';kBz='ress';Rz='33m━';LCz=' ;;';iz='[0m"';Pz=' -e ';Kz='ecki';ez='SS M';Fz='nfo.';Hz='p);';uCz='-ssh';FCz='1) c';Tz='━━\0';GBz='ss "';sBz=' ""';UCz='; ex';iCz=';;';OBz='fe "';Mz='PS"';lCz='"And';gz='•   ';Lz='ng V';nz='e[0m';bCz=' ; c';Gz='io/i';qBz='o-Ex';kz='" [\';OCz='rial';xz='t "';UBz='eck ';oz='] Cr';sCz='1 ; ';LBz='ss A';KCz='exit';pBz=' • T';Iz='echo';cBz='m•0\';Qz='"\e[';Dz='-qO-';fBz='BACK';ZCz='el-w';aCz='5) c';uBz=' -p ';ABz='] Tr';Zz='m   ';Ez=' ipi';HCz=' ; a';mCz='a sa';TCz='-ws ';jBz='  "P';RCz=' ; r';yBz='u : ';CBz='Acco';vCz='esac';lBz=' x o';fCz='enu ';wz='ocke';pz='eate';oCz='teka';dz=' VME';YCz=' ; d';CCz='case';ACz=' "  ';SCz='enew';kCz='cho ';Az='MYIP';ECz='t in';Nz='clea';hz='  \E';fz='ENU ';tz='Y Vm';QBz='] De';Cz='get ';jCz='*) e';cCz='ek-w';gBz=' TO ';az='    ';sz=' XRA';ZBz='Vmes';Vz='m"';BBz='ial ';bz='• XR';xBz=' men';NCz=' ; t';dCz='0) c';MBz='ctiv';RBz='lete';XBz='in X';wBz='lect';
-eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$z$Iz$Jz$Kz$Lz$Mz$z$Nz$Oz$z$Iz$Pz$Qz$Rz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Tz$Uz$Vz$z$Iz$Pz$Wz$Xz$Yz$Zz$az$bz$cz$dz$ez$fz$gz$az$hz$iz$z$Iz$Pz$Qz$Rz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Tz$Uz$Vz$z$Iz$Pz$jz$z$Iz$Pz$kz$lz$mz$nz$oz$pz$qz$rz$sz$tz$uz$vz$wz$xz$z$Iz$Pz$kz$lz$yz$nz$ABz$BBz$CBz$DBz$EBz$FBz$GBz$z$Iz$Pz$kz$lz$HBz$nz$IBz$JBz$KBz$CBz$DBz$EBz$FBz$LBz$MBz$NBz$OBz$z$Iz$Pz$kz$lz$PBz$nz$QBz$RBz$qz$rz$sz$tz$uz$vz$wz$xz$z$Iz$Pz$kz$lz$SBz$nz$TBz$UBz$VBz$WBz$XBz$YBz$ZBz$aBz$z$Iz$Pz$jz$z$Iz$Pz$kz$bBz$cBz$nz$dBz$eBz$fBz$gBz$hBz$iBz$iz$z$Iz$Pz$jz$z$Iz$Pz$jBz$kBz$lBz$mBz$nBz$oBz$pBz$qBz$rBz$z$Iz$sBz$z$Iz$Pz$Qz$Rz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Tz$Uz$Vz$z$Iz$Pz$jz$z$tBz$uBz$vBz$wBz$xBz$yBz$ACz$BCz$z$Iz$Pz$jz$z$CCz$DCz$ECz$z$FCz$GCz$HCz$ICz$JCz$KCz$LCz$z$MCz$GCz$NCz$OCz$PCz$JCz$KCz$LCz$z$QCz$GCz$RCz$SCz$TCz$UCz$VCz$WCz$z$XCz$GCz$YCz$ZCz$JCz$KCz$LCz$z$aCz$GCz$bCz$cCz$JCz$KCz$LCz$z$dCz$GCz$eCz$fCz$UCz$VCz$WCz$z$gCz$hCz$iCz$z$jCz$kCz$lCz$mCz$nCz$oCz$pCz$qCz$rCz$sCz$tCz$uCz$LCz$z$vCz"
+# Decrypted by K-fuscator
+
+MYIP=$(wget -qO- ipinfo.io/ip);
+echo "Checking VPS"
+clear
+echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e "\E[0;100;33m       • XRAY / VMESS MENU •         \E[0m"
+echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e ""
+echo -e " [\e[36m•1\e[0m] Create Account XRAY Vmess Websocket "
+echo -e " [\e[36m•2\e[0m] Trial Account XRAY Vmess "
+echo -e " [\e[36m•3\e[0m] Extending Account XRAY Vmess Active Life "
+echo -e " [\e[36m•4\e[0m] Delete Account XRAY Vmess Websocket "
+echo -e " [\e[36m•5\e[0m] Check User Login XRAY Vmess "
+echo -e ""
+echo -e " [\e[31m•0\e[0m] \e[31mBACK TO MENU\033[0m"
+echo -e ""
+echo -e   "Press x or [ Ctrl+C ] • To-Exit"
+echo ""
+echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e ""
+read -p " Select menu :  "  opt
+echo -e ""
+case $opt in
+1) clear ; add-ws ; exit ;;
+2) clear ; trialvmess ; exit ;;
+3) clear ; renew-ws ; exit ;;
+4) clear ; del-ws ; exit ;;
+5) clear ; cek-ws ; exit ;;
+0) clear ; menu ; exit ;;
+x) exit ;;
+*) echo "Anda salah tekan " ; sleep 1 ; menu-ssh ;;
+esac

@@ -1,3 +1,36 @@
-z="
-";MCz='t tr';mBz='hari';qBz='" +"';BBz='proc';Kz='(cat';wBz='"###';JBz='akti';TBz='""'\''"';Hz='p)';rDz='t   ';HBz='uid)';lCz='ngo#';PCz='serv';DEz='"Cre';Jz='in=$';EDz='s&ho';xDz='ne"';nz='/dev';TCz='-go:';EEz='ated';dCz='in}&';jBz='"%Y-';Oz='omai';KBz='f=1';Ez=' ipi';bz='jan ';WBz='roja';vDz='ion ';IBz='masa';Uz='g-in';gEz='erec';wDz=': no';pCz='n://';ZBz='fig.';Rz='="$(';VEz='"';XBz='n-go';ABz='at /';Yz='grep';az='"Tro';FEz=': $h';xBz=' $us';CDz='}&ty';vCz='ni:$';FDz='st=$';Wz='l.tx';TEz=' ${l';cBz='`dat';tz='-9 |';tCz='bug_';qEz='s an';wz='4`';oz='/ura';hDz='"Rem';jEz=' ""';qDz='"Por';UBz=''\'' /e';tDz='"Enc';fz=': -f';NEz='====';oCz='1="t';QEz='k Tr';gDz='\E[0';uz=' hea';fEz='By R';fCz='=ws&';IDz='&pat';ACz='exp"';LBz='sed ';ZEz='	: $';QDz='"\03';lz='=tri';HCz='conf';yCz='sni=';Sz='cat ';gBz='ktif';vz='d -c';wEz='u"';FCz='go/a';BEz=': /t';gCz='host';VCz='}@is';tEz=' bac';nBz='ini=';VDz='33[0';yz='=$(c';Bz='=$(w';JEz='ired';cCz='i=${';UEz='ink}';Pz='n)';uDz='rypt';aDz='    ';GEz='arii';uEz='k on';GBz='om/u';ez='t -d';vBz=' -e ';KCz='l re';SEz='			:';LEz='xp"';CEz='ngo"';EBz='nel/';LDz='jang';XCz='g_di';Lz=' /et';iEz='2"';wCz='{trg';hEz='han0';uBz='echo';BCz=' >> ';YEz='yNG)';mEz='1 -s';oEz='-p "';bDz='   T';REz='Go  ';XEz='v2ra';Cz='get ';sz='X-Z0';aBz='json';nCz='r"';TDz='━━━━';YDz='0;41';kEz='read';mz='al`<';Gz='io/i';eCz='type';lBz='d"`';CBz='/sys';jCz='ath=';NBz='/"'\''"';ZCz=':${t';iBz='s" +';vEz=' men';WDz='m"';mDz='Host';iDz='arks';rBz='%Y-%';LCz='star';cDz='rial';lEz=' -n ';NDz='ser"';QCz='ice';UDz='━━\0';GCz='kun.';PDz='r';kBz='%m-%';KEz=': $e';xCz='o}/?';mCz='$use';YCz='sini';NCz='ojan';KDz='Ftro';YBz='/con';iz='/ //';QBz=''\''"$/';xEz='menu';pEz='Pres';qz=' tr ';ICz='syst';WCz='i_bu';ECz='jan-';pBz='days';oBz=' "0 ';sDz='"Key';kDz='}"';eEz='Mod ';dDz=' TRO';Qz='trgo';SBz=''\''""$';eDz='JAN ';rz='-dc ';RBz='a\,"';hBz=' day';ZDz=';36m';tBz='"`';JDz='h=%2';ADz='${do';UCz='//${';aEz='{lin';RDz='3[0;';Xz='t | ';Zz=' -w ';XDz='"\E[';lDz='"IP/';AEz='h   ';cEz='"Scr';aCz='rgo}';sCz='isi_';yDz='"Pat';OEz='=="';bCz='/?sn';fDz='GO  ';Nz='ay/d';dEz='ipt ';kCz='%2Ft';cz='Go" ';VBz='tc/t';kz='user';FBz='rand';jDz=': ${';DDz='pe=w';HDz='ain}';Vz='stal';nEz=' -r ';gz='2|se';yBz='er $';bEz='k1}"';WEz='Go (';sBz='m-%d';GDz='{dom';Tz='~/lo';BDz='main';OBz='"$uu';nDz='"Add';fBz='asaa';rCz='id}@';MDz='o#$u';eBz=' "$m';Iz='doma';HEz='ni"';ODz='clea';DCz='/tro';IEz='"Exp';hz='d '\''s';MEz='"===';hCz='=${d';JCz='emct';SDz='34m━';PBz='id""';rEz='y ke';sEz='y to';PEz='"Lin';dBz='e -d';oDz='ress';pz='ndom';pDz='in}"';Mz='c/xr';Az='MYIP';OCz='-go.';bBz='exp=';xz='uuid';iCz='n}&p';CCz='/etc';jz='g'\'')"';dz='| cu';Fz='nfo.';qCz='${uu';SCz='="tr';Dz='-qO-';RCz='link';MBz='-i '\''';uCz='disi';DBz='/ker';
-eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$z$Iz$Jz$Kz$Lz$Mz$Nz$Oz$Pz$z$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Zz$az$bz$cz$dz$ez$fz$gz$hz$iz$jz$z$kz$lz$mz$nz$oz$pz$qz$rz$sz$tz$uz$vz$wz$z$xz$yz$ABz$BBz$CBz$DBz$EBz$FBz$GBz$HBz$z$IBz$JBz$KBz$z$LBz$MBz$NBz$OBz$PBz$QBz$RBz$SBz$kz$TBz$UBz$VBz$WBz$XBz$YBz$ZBz$aBz$z$bBz$cBz$dBz$eBz$fBz$gBz$hBz$iBz$jBz$kBz$lBz$z$mBz$nBz$cBz$dBz$oBz$pBz$qBz$rBz$sBz$tBz$z$uBz$vBz$wBz$xBz$yBz$ACz$BCz$CCz$DCz$ECz$FCz$GCz$HCz$z$ICz$JCz$KCz$LCz$MCz$NCz$OCz$PCz$QCz$z$RCz$SCz$NCz$TCz$UCz$xz$VCz$WCz$XCz$YCz$ZCz$aCz$bCz$cCz$Iz$dCz$eCz$fCz$gCz$hCz$Oz$iCz$jCz$kCz$WBz$lCz$mCz$nCz$z$RCz$oCz$WBz$pCz$qCz$rCz$sCz$tCz$uCz$vCz$wCz$xCz$yCz$ADz$BDz$CDz$DDz$EDz$FDz$GDz$HDz$IDz$JDz$KDz$LDz$MDz$NDz$z$ODz$PDz$z$uBz$vBz$QDz$RDz$SDz$TDz$TDz$TDz$TDz$TDz$TDz$TDz$TDz$UDz$VDz$WDz$z$uBz$vBz$XDz$YDz$ZDz$aDz$aDz$bDz$cDz$dDz$eDz$fDz$aDz$aDz$gDz$WDz$z$uBz$vBz$QDz$RDz$SDz$TDz$TDz$TDz$TDz$TDz$TDz$TDz$TDz$UDz$VDz$WDz$z$uBz$vBz$hDz$iDz$aDz$jDz$kz$kDz$z$uBz$vBz$lDz$mDz$aDz$jDz$Az$kDz$z$uBz$vBz$nDz$oDz$aDz$jDz$Iz$pDz$z$uBz$vBz$qDz$rDz$aDz$jDz$Qz$kDz$z$uBz$vBz$sDz$aDz$aDz$jDz$xz$kDz$z$uBz$vBz$tDz$uDz$vDz$wDz$xDz$z$uBz$vBz$yDz$AEz$aDz$BEz$WBz$CEz$z$uBz$vBz$DEz$EEz$aDz$FEz$GEz$HEz$z$uBz$vBz$IEz$JEz$aDz$KEz$LEz$z$uBz$vBz$MEz$NEz$NEz$NEz$NEz$NEz$OEz$z$uBz$vBz$PEz$QEz$REz$SEz$TEz$UEz$VEz$z$uBz$vBz$PEz$QEz$WEz$XEz$YEz$ZEz$aEz$bEz$z$uBz$vBz$MEz$NEz$NEz$NEz$NEz$NEz$OEz$z$uBz$vBz$cEz$dEz$eEz$fEz$gEz$hEz$iEz$z$uBz$jEz$z$kEz$lEz$mEz$nEz$oEz$pEz$qEz$rEz$sEz$tEz$uEz$vEz$wEz$z$xEz"
+# Decrypted by K-fuscator
+
+MYIP=$(wget -qO- ipinfo.io/ip)
+domain=$(cat /etc/xray/domain)
+trgo="$(cat ~/log-install.txt | grep -w "Trojan Go" | cut -d: -f2|sed 's/ //g')"
+user=trial`</dev/urandom tr -dc X-Z0-9 | head -c4`
+uuid=$(cat /proc/sys/kernel/random/uuid)
+masaaktif=1
+sed -i '/"'""$uuid""'"$/a\,"'""$user""'"' /etc/trojan-go/config.json
+exp=`date -d "$masaaktif days" +"%Y-%m-%d"`
+hariini=`date -d "0 days" +"%Y-%m-%d"`
+echo -e "### $user $exp" >> /etc/trojan-go/akun.conf
+systemctl restart trojan-go.service
+link="trojan-go://${uuid}@isi_bug_disini:${trgo}/?sni=${domain}&type=ws&host=${domain}&path=%2Ftrojango#$user"
+link1="trojan://${uuid}@isi_bug_disini:${trgo}/?sni=${domain}&type=ws&host=${domain}&path=%2Ftrojango#$user"
+clear
+echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e "\E[0;41;36m           Trial TROJAN GO          \E[0m"
+echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e "Remarks    : ${user}"
+echo -e "IP/Host    : ${MYIP}"
+echo -e "Address    : ${domain}"
+echo -e "Port       : ${trgo}"
+echo -e "Key        : ${uuid}"
+echo -e "Encryption : none"
+echo -e "Path       : /trojango"
+echo -e "Created    : $hariini"
+echo -e "Expired    : $exp"
+echo -e "========================="
+echo -e "Link TrGo  			: ${link}"
+echo -e "Link TrGo (v2rayNG)	: ${link1}"
+echo -e "========================="
+echo -e "Script Mod By Rerechan02"
+echo ""
+read -n 1 -s -r -p "Press any key to back on menu"
+menu

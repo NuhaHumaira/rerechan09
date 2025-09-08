@@ -1,3 +1,42 @@
-z="
-";Hz='nsec';MBz='egre';Xz='s/< ';qBz='* 86';KBz='" Us';TDz='   "';Oz='gle.';mBz='aile';Rz='1 | ';aBz=' the';ZBz='0 ];';mCz='|pas';IDz='ion_';YBz='-eq ';gCz='irat';qCz='v/nu';RCz='+%Y/';Dz='er=$';WCz='ay=$';kCz='$Pas';FCz='(dat';uz='"\E[';CDz=' Day';lBz='_Det';bCz='u $U';pBz='ays ';oCz='r &>';uBz='re_O';Kz='lent';YCz=' %b ';LBz='er';cBz='"Day';IBz='rnam';Iz='ure ';iBz='y=`d';Sz='grep';Bz='From';UDz='fi';uCz='me :';nCz='swd ';NDz='User';ADz='dded';yz='   R';HBz='"Use';nz='"\03';PBz='r" /';wCz='er"';Mz='ps:/';NCz='ire_';Yz='Date';CCz='iled';aCz='wd -';rBz='400 ';KDz='lay"';Qz=' 2>&';dCz='user';nBz='d=$(';BBz='  US';JCz='"197';xz='    ';PCz='ec G';yCz='ys A';mz=' -e ';ODz='name';eBz='end ';ICz='ate=';SBz='wd >';EDz='" Ex';oz='3[0;';TCz='d)';ZCz='%Y'\'')';gz='d" -';wz=';36m';BDz=' : $';GBz=' -p ';yBz='+ $D';NBz='p "^';MDz='"   ';VCz='ispl';ez='"%Y-';FBz='read';Cz='Serv';GDz='s on';Jz='--si';iCz='"$Pa';jCz='ss\n';rCz='ll';jz='clea';FDz='pire';cCz='ser';JDz='Disp';SCz='%m/%';bz='biji';tz='"';kBz='+%s`';QDz='snt ';UCz='on_D';tBz='Expi';Uz='e | ';MCz='$Exp';iz='er"`';rz='━\03';Vz='sed ';JBz='e : ';KCz='0-01';fCz='-e  ';dz='te +';fBz=': " ';PDz=' Doe';OCz='On s';HDz=' :  ';Fz='l -v';oBz='( $D';sBz='))';vz='0;41';lCz='s\n"';pz='34m━';lz='echo';Lz=' htt';cz='=`da';bBz='n';vBz='n=$(';RDz='Exis';QBz='etc/';Az='date';sCz='""';tCz='erna';sz='3[0m';Ez='(cur';xCz='" Da';ACz='ays_';ECz='on=$';CBz='ER  ';OBz='$Use';hCz='ion ';ABz='ENEW';Tz=' Dat';SDz='t   ';eCz='mod ';fz='%m-%';EBz='[0m"';gBz='Days';BCz='Deta';Gz=' --i';LDz='else';hBz='Toda';UBz='/nul';vCz=' $Us';Nz='/goo';az=''\'')';qz='━━━━';wBz='($To';Zz=': //';GCz='e -u';DDz='s"';VBz='l';WBz='if [';Wz='-e '\''';RBz='pass';Pz='com/';pCz=' /de';XCz=''\''+%d';QCz='MT" ';HCz=' --d';LCz='-01 ';DBz='  \E';kz='r';XBz=' $? ';DCz='rati';jBz='ate ';hz='d "$';dBz=' Ext';TBz='/dev';xBz='day ';
-eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Zz$az$z$bz$cz$dz$ez$fz$gz$hz$Az$Bz$Cz$iz$z$jz$kz$z$lz$mz$nz$oz$pz$qz$qz$qz$qz$qz$qz$qz$qz$qz$qz$rz$sz$tz$z$lz$mz$uz$vz$wz$xz$xz$xz$yz$ABz$BBz$CBz$xz$xz$xz$DBz$EBz$z$lz$mz$nz$oz$pz$qz$qz$qz$qz$qz$qz$qz$qz$qz$qz$rz$sz$tz$z$lz$z$FBz$GBz$HBz$IBz$JBz$KBz$LBz$z$MBz$NBz$OBz$PBz$QBz$RBz$SBz$TBz$UBz$VBz$z$WBz$XBz$YBz$ZBz$aBz$bBz$z$FBz$GBz$cBz$dBz$eBz$fBz$gBz$z$hBz$iBz$jBz$kBz$z$gBz$lBz$mBz$nBz$oBz$pBz$qBz$rBz$sBz$z$tBz$uBz$vBz$wBz$xBz$yBz$ACz$BCz$CCz$sBz$z$tBz$DCz$ECz$FCz$GCz$HCz$ICz$JCz$KCz$LCz$MCz$NCz$OCz$PCz$QCz$RCz$SCz$TCz$z$tBz$DCz$UCz$VCz$WCz$FCz$GCz$HCz$ICz$JCz$KCz$LCz$MCz$NCz$OCz$PCz$QCz$XCz$YCz$ZCz$z$RBz$aCz$bCz$cCz$z$dCz$eCz$fCz$MCz$gCz$hCz$OBz$kz$z$MBz$NBz$OBz$PBz$QBz$RBz$SBz$TBz$UBz$VBz$z$lz$mz$iCz$jCz$kCz$lCz$mCz$nCz$OBz$oCz$pCz$qCz$rCz$z$jz$kz$z$lz$mz$nz$oz$pz$qz$qz$qz$qz$qz$qz$qz$qz$qz$qz$rz$sz$tz$z$lz$mz$uz$vz$wz$xz$xz$xz$yz$ABz$BBz$CBz$xz$xz$xz$DBz$EBz$z$lz$mz$nz$oz$pz$qz$qz$qz$qz$qz$qz$qz$qz$qz$qz$rz$sz$tz$z$lz$mz$sCz$z$lz$mz$KBz$tCz$uCz$vCz$wCz$z$lz$mz$xCz$yCz$ADz$BDz$gBz$CDz$DDz$z$lz$mz$EDz$FDz$GDz$HDz$MCz$gCz$IDz$JDz$KDz$z$lz$mz$sCz$z$lz$mz$nz$oz$pz$qz$qz$qz$qz$qz$qz$qz$qz$qz$qz$rz$sz$tz$z$LDz$z$jz$kz$z$lz$mz$nz$oz$pz$qz$qz$qz$qz$qz$qz$qz$qz$qz$qz$rz$sz$tz$z$lz$mz$uz$vz$wz$xz$xz$xz$yz$ABz$BBz$CBz$xz$xz$xz$DBz$EBz$z$lz$mz$nz$oz$pz$qz$qz$qz$qz$qz$qz$qz$qz$qz$qz$rz$sz$tz$z$lz$mz$sCz$z$lz$mz$MDz$NDz$ODz$PDz$QDz$RDz$SDz$TDz$z$lz$mz$sCz$z$lz$mz$nz$oz$pz$qz$qz$qz$qz$qz$qz$qz$qz$qz$qz$rz$sz$tz$z$UDz"
+# Decrypted by K-fuscator
+
+dateFromServer=$(curl -v --insecure --silent https://google.com/ 2>&1 | grep Date | sed -e 's/< Date: //')
+biji=`date +"%Y-%m-%d" -d "$dateFromServer"`
+clear
+echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e "\E[0;41;36m               RENEW  USER                \E[0m"
+echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo
+read -p "Username : " User
+egrep "^$User" /etc/passwd >/dev/null
+if [ $? -eq 0 ]; then
+read -p "Day Extend : " Days
+Today=`date +%s`
+Days_Detailed=$(( $Days * 86400 ))
+Expire_On=$(($Today + $Days_Detailed))
+Expiration=$(date -u --date="1970-01-01 $Expire_On sec GMT" +%Y/%m/%d)
+Expiration_Display=$(date -u --date="1970-01-01 $Expire_On sec GMT" '+%d %b %Y')
+passwd -u $User
+usermod -e  $Expiration $User
+egrep "^$User" /etc/passwd >/dev/null
+echo -e "$Pass\n$Pass\n"|passwd $User &> /dev/null
+clear
+echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e "\E[0;41;36m               RENEW  USER                \E[0m"
+echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e ""
+echo -e " Username : $User"
+echo -e " Days Added : $Days Days"
+echo -e " Expires on :  $Expiration_Display"
+echo -e ""
+echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+else
+clear
+echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e "\E[0;41;36m               RENEW  USER                \E[0m"
+echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e ""
+echo -e "   Username Doesnt Exist      "
+echo -e ""
+echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+fi

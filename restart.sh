@@ -1,3 +1,262 @@
-z="
-";Rz='33m━';bCz=' res';SEz='Pres';bFz='uai"';CDz='p 0.';PFz='x)';pCz='3[0m';jz='e[36';nDz='ket ';lCz='squi';RDz='scre';yDz='t ws';MCz='32mI';iBz=' TO ';cFz=' ; s';KFz=' Tro';AEz='-dro';rCz='esta';Pz=' -e ';TBz='t XR';DEz='e';FDz='t xr';KDz=' Ser';MBz='t Ng';ABz='ar"';NFz='0)';LDz='vice';bz='  • ';jEz=' Stu';sz='m•2\';pDz='ice ';IEz=' Go ';tBz='o-Ex';cCz='stun';Tz='━━\0';BDz='l) "';oBz=' x o';XBz='BSOC';Mz='PS"';cBz=' Go"';SCz='in"';wBz=' -p ';GEz='.ser';ZDz='--li';uEz=' Ngi';fBz='] \e';gBz='[31m';yBz='lect';xz='t Dr';ZCz='drop';jDz='ts 5';pBz='r [ ';vDz='hws.';hBz='BACK';YDz='pgw ';GBz='enVP';dz='ART ';iDz='lien';rEz='ce R';LEz=' ALL';oCz='k\03';Kz='ecki';MEz='ed"';GDz='ay';MFz='Go S';dEz='3)';vEz='nx S';mCz='d re';QEz=' -r ';xCz='via ';Zz='m   ';REz='-p "';yz='opbe';JBz='t Sq';BFz='d"';fCz='vpn ';PBz='t Ba';fDz='7300';LCz='033[';Oz='r';ADz='emct';JCz='1)';nBz='ress';aEz=';;';FFz='10)';GFz=' WEB';Dz='-qO-';mBz='  "P';fz=' •  ';WFz='Pili';fFz=' ;;';qDz='(via';EEz='-stu';ECz='slee';iCz='cron';UCz='/ini';IBz='m•6\';rBz='+C ]';wz='m•3\';JDz='g ba';FCz='p 1';IFz='ET S';Iz='echo';BBz='m•4\';aBz='t Tr';NBz='inx"';LBz='m•7\';gEz='e Re';OFz='exit';FBz='m•5\';xDz='ice';bEz='2)';Nz='clea';Jz=' "Ch';Uz='33[0';eCz='open';EBz='l4"';NDz='a sy';SBz='m•9\';rDz=' sys';hDz='ax-c';RBz='"';bDz='-add';CFz='9)';NCz='nfo\';uDz='t ss';oz='t Al';JEz='t tr';nCz='32mo';Sz='━━━━';yEz='Rest';OCz='0m ]';DDz='5';vCz='ervi';eEz=' Dro';ZBz='m11\';TDz='dmS ';kDz='00';QCz='tart';ICz='t in';NEz=' ""';YFz='mor ';jBz='\033';gDz=' --m';Fz='nfo.';DFz=' XRA';iEz='4)';kEz='4 Se';uBz='it"';fEz='r Se';tCz='g xr';aCz='bear';PDz='ctl)';CCz='" Re';HCz=' $Re';lEz='5)';ez='MENU';GCz='case';UBz='AY"';eFz=' 1 ;';AFz='arte';cEz=' SSH';KCz='"[ \';PCz=' Res';oDz='Serv';YBz='KET"';IDz='ce';OEz=' -n ';HDz='ay.s';tEz='7)';mDz='bsoc';WDz='advp';JFz='11)';vz='H"';Qz='"\e[';Cz='get ';xBz='" Se';QFz='*) e';jCz='ngin';mEz=' Ope';Az='MYIP';hCz='2ban';iz='" [\';Yz='0;33';UEz='y ke';OBz='m•8\';ZFz='Yang';sCz='rtin';VBz='m10\';WCz='ssh ';Xz='0;10';Ez=' ipi';wCz='ce (';QDz=' "';DCz='t';nz='star';VCz='t.d/';yCz='syst';RCz=' Beg';aFz=' Ses';XDz='n-ud';XCz='rest';TFz='" ; ';WBz='t WE';vBz='read';mz='] Re';DBz='unne';LFz='jan ';uz='enSS';QBz='dvpn';KBz='uid"';az='    ';EDz='l re';dFz='leep';KEz='-go.';VDz='pn b';TCz='/etc';ACz=' men';dCz='nel4';YCz='art';Lz='ng V';wDz='serv';hz='""';tDz='tl) ';gFz='esac';nEz='nvpn';Hz='p);';CBz='t St';Bz='=$(w';YEz='tem ';BCz='u : ';ODz='stem';SFz='-e "';qEz='id S';hEz='ted"';CEz='r.se';VFz='rap ';HFz='SOCK';oEz='6)';xEz=' Bad';uCz='ay S';qBz='Ctrl';BEz='pbea';XFz='h No';UDz='badv';pz='l Se';Wz='"\E[';pEz=' Squ';UFz=' "Ha';dBz='e[31';eBz='m•0\';dDz='7.0.';lBz='  ""';eDz='0.1:';FEz='nnel';bBz='ojan';SDz='en -';rz='es"';tz='t Op';lz='e[0m';VEz='y to';kBz='[0m"';gCz='fail';cz='REST';sEz='rted';lDz='g we';gz='\E[0';Vz='m"';EFz='Y Se';aDz='sten';MDz=' (vi';WEz=' bac';TEz='s an';RFz='cho ';HEz='g Tr';kCz='x re';XEz='k on';Gz='io/i';HBz='N"';wEz='8)';PEz='1 -s';sBz=' • T';kz='m•1\';sDz='temc';qCz=' ] R';qz='rvic';cDz='r 12';ZEz='menu';
-eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$z$Iz$Jz$Kz$Lz$Mz$z$Nz$Oz$z$Iz$Pz$Qz$Rz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Tz$Uz$Vz$z$Iz$Pz$Wz$Xz$Yz$Zz$az$bz$cz$dz$ez$fz$az$az$gz$Vz$z$Iz$Pz$Qz$Rz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Tz$Uz$Vz$z$Iz$Pz$hz$z$Iz$Pz$iz$jz$kz$lz$mz$nz$oz$pz$qz$rz$z$Iz$Pz$iz$jz$sz$lz$mz$nz$tz$uz$vz$z$Iz$Pz$iz$jz$wz$lz$mz$nz$xz$yz$ABz$z$Iz$Pz$iz$jz$BBz$lz$mz$nz$CBz$DBz$EBz$z$Iz$Pz$iz$jz$FBz$lz$mz$nz$tz$GBz$HBz$z$Iz$Pz$iz$jz$IBz$lz$mz$nz$JBz$KBz$z$Iz$Pz$iz$jz$LBz$lz$mz$nz$MBz$NBz$z$Iz$Pz$iz$jz$OBz$lz$mz$nz$PBz$QBz$RBz$z$Iz$Pz$iz$jz$SBz$lz$mz$nz$TBz$UBz$z$Iz$Pz$iz$jz$VBz$lz$mz$nz$WBz$XBz$YBz$z$Iz$Pz$iz$jz$ZBz$lz$mz$nz$aBz$bBz$cBz$z$Iz$Pz$hz$z$Iz$Pz$iz$dBz$eBz$lz$fBz$gBz$hBz$iBz$ez$jBz$kBz$z$Iz$Pz$lBz$z$Iz$Pz$mBz$nBz$oBz$pBz$qBz$rBz$sBz$tBz$uBz$z$Iz$Pz$lBz$z$Iz$Pz$Qz$Rz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Tz$Uz$Vz$z$Iz$Pz$hz$z$vBz$wBz$xBz$yBz$ACz$BCz$CCz$nz$DCz$z$Iz$Pz$hz$z$ECz$FCz$z$Nz$Oz$z$GCz$HCz$nz$ICz$z$JCz$z$Nz$Oz$z$Iz$Pz$Qz$Rz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Tz$Uz$Vz$z$Iz$Pz$Wz$Xz$Yz$Zz$az$bz$cz$dz$ez$fz$az$az$gz$Vz$z$Iz$Pz$Qz$Rz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Tz$Uz$Vz$z$Iz$Pz$hz$z$Iz$Pz$KCz$LCz$MCz$NCz$LCz$OCz$PCz$QCz$RCz$SCz$z$ECz$FCz$z$TCz$UCz$VCz$WCz$XCz$YCz$z$TCz$UCz$VCz$ZCz$aCz$bCz$QCz$z$TCz$UCz$VCz$cCz$dCz$bCz$QCz$z$TCz$UCz$VCz$eCz$fCz$XCz$YCz$z$TCz$UCz$VCz$gCz$hCz$bCz$QCz$z$TCz$UCz$VCz$iCz$bCz$QCz$z$TCz$UCz$VCz$jCz$kCz$nz$DCz$z$TCz$UCz$VCz$lCz$mCz$nz$DCz$z$Iz$Pz$KCz$LCz$nCz$oCz$pCz$qCz$rCz$sCz$tCz$uCz$vCz$wCz$xCz$yCz$ADz$BDz$z$ECz$CDz$DDz$z$yCz$ADz$EDz$nz$FDz$GDz$z$yCz$ADz$EDz$nz$FDz$HDz$vCz$IDz$z$Iz$Pz$KCz$LCz$nCz$oCz$pCz$qCz$rCz$sCz$JDz$QBz$KDz$LDz$MDz$NDz$ODz$PDz$QDz$z$ECz$CDz$DDz$z$RDz$SDz$TDz$UDz$VDz$WDz$XDz$YDz$ZDz$aDz$bDz$cDz$dDz$eDz$fDz$gDz$hDz$iDz$jDz$kDz$z$ECz$CDz$DDz$z$Iz$Pz$KCz$LCz$nCz$oCz$pCz$qCz$rCz$sCz$lDz$mDz$nDz$oDz$pDz$qDz$rDz$sDz$tDz$RBz$z$ECz$CDz$DDz$z$yCz$ADz$EDz$nz$uDz$vDz$wDz$xDz$z$yCz$ADz$EDz$nz$yDz$AEz$BEz$CEz$qz$DEz$z$yCz$ADz$EDz$nz$yDz$EEz$FEz$GEz$LDz$z$ECz$CDz$DDz$z$Iz$Pz$KCz$LCz$nCz$oCz$pCz$qCz$rCz$sCz$HEz$bBz$IEz$oDz$pDz$qDz$rDz$sDz$tDz$RBz$z$ECz$CDz$DDz$z$yCz$ADz$EDz$nz$JEz$bBz$KEz$wDz$xDz$z$ECz$CDz$DDz$z$Iz$Pz$KCz$LCz$MCz$NCz$LCz$OCz$LEz$KDz$LDz$PCz$QCz$MEz$z$Iz$NEz$z$Iz$Pz$Qz$Rz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Tz$Uz$Vz$z$Iz$NEz$z$vBz$OEz$PEz$QEz$REz$SEz$TEz$UEz$VEz$WEz$XEz$rDz$YEz$ZEz$RBz$z$XCz$YCz$z$aEz$z$bEz$z$Nz$Oz$z$Iz$Pz$Qz$Rz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Tz$Uz$Vz$z$Iz$Pz$Wz$Xz$Yz$Zz$az$bz$cz$dz$ez$fz$az$az$gz$Vz$z$Iz$Pz$Qz$Rz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Tz$Uz$Vz$z$Iz$Pz$hz$z$Iz$Pz$KCz$LCz$MCz$NCz$LCz$OCz$PCz$QCz$RCz$SCz$z$ECz$FCz$z$TCz$UCz$VCz$WCz$XCz$YCz$z$ECz$CDz$DDz$z$Iz$Pz$KCz$LCz$MCz$NCz$LCz$OCz$cEz$KDz$LDz$PCz$QCz$MEz$z$Iz$NEz$z$Iz$Pz$Qz$Rz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Tz$Uz$Vz$z$Iz$NEz$z$vBz$OEz$PEz$QEz$REz$SEz$TEz$UEz$VEz$WEz$XEz$rDz$YEz$ZEz$RBz$z$XCz$YCz$z$aEz$z$dEz$z$Nz$Oz$z$Iz$Pz$Qz$Rz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Tz$Uz$Vz$z$Iz$Pz$Wz$Xz$Yz$Zz$az$bz$cz$dz$ez$fz$az$az$gz$Vz$z$Iz$Pz$Qz$Rz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Tz$Uz$Vz$z$Iz$Pz$hz$z$Iz$Pz$KCz$LCz$MCz$NCz$LCz$OCz$PCz$QCz$RCz$SCz$z$ECz$FCz$z$TCz$UCz$VCz$ZCz$aCz$bCz$QCz$z$ECz$CDz$DDz$z$Iz$Pz$KCz$LCz$MCz$NCz$LCz$OCz$eEz$BEz$fEz$qz$gEz$nz$hEz$z$Iz$NEz$z$Iz$Pz$Qz$Rz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Tz$Uz$Vz$z$Iz$NEz$z$vBz$OEz$PEz$QEz$REz$SEz$TEz$UEz$VEz$WEz$XEz$rDz$YEz$ZEz$RBz$z$XCz$YCz$z$aEz$z$iEz$z$Nz$Oz$z$Iz$Pz$Qz$Rz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Tz$Uz$Vz$z$Iz$Pz$Wz$Xz$Yz$Zz$az$bz$cz$dz$ez$fz$az$az$gz$Vz$z$Iz$Pz$Qz$Rz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Tz$Uz$Vz$z$Iz$Pz$hz$z$Iz$Pz$KCz$LCz$MCz$NCz$LCz$OCz$PCz$QCz$RCz$SCz$z$ECz$FCz$z$TCz$UCz$VCz$cCz$dCz$bCz$QCz$z$ECz$CDz$DDz$z$Iz$Pz$KCz$LCz$MCz$NCz$LCz$OCz$jEz$FEz$kEz$qz$gEz$nz$hEz$z$Iz$NEz$z$Iz$Pz$Qz$Rz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Tz$Uz$Vz$z$Iz$NEz$z$vBz$OEz$PEz$QEz$REz$SEz$TEz$UEz$VEz$WEz$XEz$rDz$YEz$ZEz$RBz$z$XCz$YCz$z$aEz$z$lEz$z$Nz$Oz$z$Iz$Pz$Qz$Rz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Tz$Uz$Vz$z$Iz$Pz$Wz$Xz$Yz$Zz$az$bz$cz$dz$ez$fz$az$az$gz$Vz$z$Iz$Pz$Qz$Rz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Tz$Uz$Vz$z$Iz$Pz$hz$z$Iz$Pz$KCz$LCz$MCz$NCz$LCz$OCz$PCz$QCz$RCz$SCz$z$ECz$FCz$z$TCz$UCz$VCz$eCz$fCz$XCz$YCz$z$ECz$CDz$DDz$z$Iz$Pz$KCz$LCz$MCz$NCz$LCz$OCz$mEz$nEz$KDz$LDz$PCz$QCz$MEz$z$Iz$NEz$z$Iz$Pz$Qz$Rz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Tz$Uz$Vz$z$Iz$NEz$z$vBz$OEz$PEz$QEz$REz$SEz$TEz$UEz$VEz$WEz$XEz$rDz$YEz$ZEz$RBz$z$XCz$YCz$z$aEz$z$oEz$z$Nz$Oz$z$Iz$Pz$Qz$Rz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Tz$Uz$Vz$z$Iz$Pz$Wz$Xz$Yz$Zz$az$bz$cz$dz$ez$fz$az$az$gz$Vz$z$Iz$Pz$Qz$Rz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Tz$Uz$Vz$z$Iz$Pz$hz$z$Iz$Pz$KCz$LCz$MCz$NCz$LCz$OCz$PCz$QCz$RCz$SCz$z$ECz$FCz$z$TCz$UCz$VCz$lCz$mCz$nz$DCz$z$ECz$CDz$DDz$z$Iz$Pz$KCz$LCz$MCz$NCz$LCz$OCz$pEz$qEz$vCz$rEz$rCz$sEz$RBz$z$Iz$NEz$z$Iz$Pz$Qz$Rz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Tz$Uz$Vz$z$Iz$NEz$z$vBz$OEz$PEz$QEz$REz$SEz$TEz$UEz$VEz$WEz$XEz$rDz$YEz$ZEz$RBz$z$XCz$YCz$z$aEz$z$tEz$z$Nz$Oz$z$Iz$Pz$Qz$Rz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Tz$Uz$Vz$z$Iz$Pz$Wz$Xz$Yz$Zz$az$bz$cz$dz$ez$fz$az$az$gz$Vz$z$Iz$Pz$Qz$Rz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Tz$Uz$Vz$z$Iz$Pz$hz$z$Iz$Pz$KCz$LCz$MCz$NCz$LCz$OCz$PCz$QCz$RCz$SCz$z$ECz$FCz$z$TCz$UCz$VCz$jCz$kCz$nz$DCz$z$ECz$CDz$DDz$z$Iz$Pz$KCz$LCz$MCz$NCz$LCz$OCz$uEz$vEz$vCz$rEz$rCz$sEz$RBz$z$Iz$NEz$z$Iz$Pz$Qz$Rz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Tz$Uz$Vz$z$Iz$NEz$z$vBz$OEz$PEz$QEz$REz$SEz$TEz$UEz$VEz$WEz$XEz$rDz$YEz$ZEz$RBz$z$XCz$YCz$z$aEz$z$wEz$z$Nz$Oz$z$Iz$Pz$Qz$Rz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Tz$Uz$Vz$z$Iz$Pz$Wz$Xz$Yz$Zz$az$bz$cz$dz$ez$fz$az$az$gz$Vz$z$Iz$Pz$Qz$Rz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Tz$Uz$Vz$z$Iz$Pz$hz$z$Iz$Pz$KCz$LCz$MCz$NCz$LCz$OCz$PCz$QCz$RCz$SCz$z$ECz$FCz$z$Iz$Pz$KCz$LCz$nCz$oCz$pCz$qCz$rCz$sCz$JDz$QBz$KDz$LDz$MDz$NDz$ODz$PDz$QDz$z$RDz$SDz$TDz$UDz$VDz$WDz$XDz$YDz$ZDz$aDz$bDz$cDz$dDz$eDz$fDz$gDz$hDz$iDz$jDz$kDz$z$ECz$CDz$DDz$z$Iz$Pz$KCz$LCz$MCz$NCz$LCz$OCz$xEz$fCz$oDz$pDz$yEz$AFz$BFz$z$Iz$NEz$z$Iz$Pz$Qz$Rz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Tz$Uz$Vz$z$Iz$NEz$z$vBz$OEz$PEz$QEz$REz$SEz$TEz$UEz$VEz$WEz$XEz$rDz$YEz$ZEz$RBz$z$XCz$YCz$z$aEz$z$CFz$z$Nz$Oz$z$Iz$Pz$Qz$Rz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Tz$Uz$Vz$z$Iz$Pz$Wz$Xz$Yz$Zz$az$bz$cz$dz$ez$fz$az$az$gz$Vz$z$Iz$Pz$Qz$Rz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Tz$Uz$Vz$z$Iz$Pz$hz$z$Iz$Pz$KCz$LCz$MCz$NCz$LCz$OCz$PCz$QCz$RCz$SCz$z$ECz$FCz$z$Iz$Pz$KCz$LCz$nCz$oCz$pCz$qCz$rCz$sCz$tCz$uCz$vCz$wCz$xCz$yCz$ADz$BDz$z$yCz$ADz$EDz$nz$FDz$GDz$z$yCz$ADz$EDz$nz$FDz$HDz$vCz$IDz$z$ECz$CDz$DDz$z$Iz$Pz$KCz$LCz$MCz$NCz$LCz$OCz$DFz$EFz$qz$gEz$nz$hEz$z$Iz$NEz$z$Iz$Pz$Qz$Rz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Tz$Uz$Vz$z$Iz$NEz$z$vBz$OEz$PEz$QEz$REz$SEz$TEz$UEz$VEz$WEz$XEz$rDz$YEz$ZEz$RBz$z$XCz$YCz$z$aEz$z$FFz$z$Nz$Oz$z$Iz$Pz$Qz$Rz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Tz$Uz$Vz$z$Iz$Pz$Wz$Xz$Yz$Zz$az$bz$cz$dz$ez$fz$az$az$gz$Vz$z$Iz$Pz$Qz$Rz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Tz$Uz$Vz$z$Iz$Pz$hz$z$Iz$Pz$KCz$LCz$MCz$NCz$LCz$OCz$PCz$QCz$RCz$SCz$z$ECz$FCz$z$Iz$Pz$KCz$LCz$nCz$oCz$pCz$qCz$rCz$sCz$lDz$mDz$nDz$oDz$pDz$qDz$rDz$sDz$tDz$RBz$z$ECz$CDz$DDz$z$yCz$ADz$EDz$nz$uDz$vDz$wDz$xDz$z$yCz$ADz$EDz$nz$yDz$AEz$BEz$CEz$qz$DEz$z$yCz$ADz$EDz$nz$yDz$EEz$FEz$GEz$LDz$z$ECz$CDz$DDz$z$Iz$Pz$KCz$LCz$MCz$NCz$LCz$OCz$GFz$HFz$IFz$vCz$rEz$rCz$sEz$RBz$z$Iz$NEz$z$Iz$Pz$Qz$Rz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Tz$Uz$Vz$z$Iz$NEz$z$vBz$OEz$PEz$QEz$REz$SEz$TEz$UEz$VEz$WEz$XEz$rDz$YEz$ZEz$RBz$z$XCz$YCz$z$aEz$z$JFz$z$Nz$Oz$z$Iz$Pz$Qz$Rz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Tz$Uz$Vz$z$Iz$Pz$Wz$Xz$Yz$Zz$az$bz$cz$dz$ez$fz$az$az$gz$Vz$z$Iz$Pz$Qz$Rz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Tz$Uz$Vz$z$Iz$Pz$hz$z$Iz$Pz$KCz$LCz$MCz$NCz$LCz$OCz$PCz$QCz$RCz$SCz$z$ECz$FCz$z$Iz$Pz$KCz$LCz$nCz$oCz$pCz$qCz$rCz$sCz$HEz$bBz$IEz$oDz$pDz$qDz$rDz$sDz$tDz$RBz$z$ECz$CDz$DDz$z$yCz$ADz$EDz$nz$JEz$bBz$KEz$wDz$xDz$z$ECz$CDz$DDz$z$Iz$Pz$KCz$LCz$MCz$NCz$LCz$OCz$KFz$LFz$MFz$vCz$rEz$rCz$sEz$RBz$z$Iz$NEz$z$Iz$Pz$Qz$Rz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Tz$Uz$Vz$z$Iz$NEz$z$vBz$OEz$PEz$QEz$REz$SEz$TEz$UEz$VEz$WEz$XEz$rDz$YEz$ZEz$RBz$z$XCz$YCz$z$aEz$z$NFz$z$ZEz$z$OFz$z$aEz$z$PFz$z$Nz$Oz$z$OFz$z$aEz$z$QFz$RFz$SFz$TFz$Iz$UFz$VFz$WFz$XFz$YFz$ZFz$aFz$bFz$cFz$dFz$eFz$bCz$QCz$fFz$z$gFz"
+# Decrypted by K-fuscator
+
+MYIP=$(wget -qO- ipinfo.io/ip);
+echo "Checking VPS"
+clear
+echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e "\E[0;100;33m         • RESTART MENU •          \E[0m"
+echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e ""
+echo -e " [\e[36m•1\e[0m] Restart All Services"
+echo -e " [\e[36m•2\e[0m] Restart OpenSSH"
+echo -e " [\e[36m•3\e[0m] Restart Dropbear"
+echo -e " [\e[36m•4\e[0m] Restart Stunnel4"
+echo -e " [\e[36m•5\e[0m] Restart OpenVPN"
+echo -e " [\e[36m•6\e[0m] Restart Squid"
+echo -e " [\e[36m•7\e[0m] Restart Nginx"
+echo -e " [\e[36m•8\e[0m] Restart Badvpn"
+echo -e " [\e[36m•9\e[0m] Restart XRAY"
+echo -e " [\e[36m10\e[0m] Restart WEBSOCKET"
+echo -e " [\e[36m11\e[0m] Restart Trojan Go"
+echo -e ""
+echo -e " [\e[31m•0\e[0m] \e[31mBACK TO MENU\033[0m"
+echo -e   ""
+echo -e   "Press x or [ Ctrl+C ] • To-Exit"
+echo -e   ""
+echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e ""
+read -p " Select menu : " Restart
+echo -e ""
+sleep 1
+clear
+case $Restart in
+1)
+clear
+echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e "\E[0;100;33m         • RESTART MENU •          \E[0m"
+echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e ""
+echo -e "[ \033[32mInfo\033[0m ] Restart Begin"
+sleep 1
+/etc/init.d/ssh restart
+/etc/init.d/dropbear restart
+/etc/init.d/stunnel4 restart
+/etc/init.d/openvpn restart
+/etc/init.d/fail2ban restart
+/etc/init.d/cron restart
+/etc/init.d/nginx restart
+/etc/init.d/squid restart
+echo -e "[ \033[32mok\033[0m ] Restarting xray Service (via systemctl) "
+sleep 0.5
+systemctl restart xray
+systemctl restart xray.service
+echo -e "[ \033[32mok\033[0m ] Restarting badvpn Service (via systemctl) "
+sleep 0.5
+screen -dmS badvpn badvpn-udpgw --listen-addr 127.0.0.1:7300 --max-clients 500
+sleep 0.5
+echo -e "[ \033[32mok\033[0m ] Restarting websocket Service (via systemctl) "
+sleep 0.5
+systemctl restart sshws.service
+systemctl restart ws-dropbear.service
+systemctl restart ws-stunnel.service
+sleep 0.5
+echo -e "[ \033[32mok\033[0m ] Restarting Trojan Go Service (via systemctl) "
+sleep 0.5
+systemctl restart trojan-go.service
+sleep 0.5
+echo -e "[ \033[32mInfo\033[0m ] ALL Service Restarted"
+echo ""
+echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo ""
+read -n 1 -s -r -p "Press any key to back on system menu"
+restart
+;;
+2)
+clear
+echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e "\E[0;100;33m         • RESTART MENU •          \E[0m"
+echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e ""
+echo -e "[ \033[32mInfo\033[0m ] Restart Begin"
+sleep 1
+/etc/init.d/ssh restart
+sleep 0.5
+echo -e "[ \033[32mInfo\033[0m ] SSH Service Restarted"
+echo ""
+echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo ""
+read -n 1 -s -r -p "Press any key to back on system menu"
+restart
+;;
+3)
+clear
+echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e "\E[0;100;33m         • RESTART MENU •          \E[0m"
+echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e ""
+echo -e "[ \033[32mInfo\033[0m ] Restart Begin"
+sleep 1
+/etc/init.d/dropbear restart
+sleep 0.5
+echo -e "[ \033[32mInfo\033[0m ] Dropbear Service Restarted"
+echo ""
+echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo ""
+read -n 1 -s -r -p "Press any key to back on system menu"
+restart
+;;
+4)
+clear
+echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e "\E[0;100;33m         • RESTART MENU •          \E[0m"
+echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e ""
+echo -e "[ \033[32mInfo\033[0m ] Restart Begin"
+sleep 1
+/etc/init.d/stunnel4 restart
+sleep 0.5
+echo -e "[ \033[32mInfo\033[0m ] Stunnel4 Service Restarted"
+echo ""
+echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo ""
+read -n 1 -s -r -p "Press any key to back on system menu"
+restart
+;;
+5)
+clear
+echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e "\E[0;100;33m         • RESTART MENU •          \E[0m"
+echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e ""
+echo -e "[ \033[32mInfo\033[0m ] Restart Begin"
+sleep 1
+/etc/init.d/openvpn restart
+sleep 0.5
+echo -e "[ \033[32mInfo\033[0m ] Openvpn Service Restarted"
+echo ""
+echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo ""
+read -n 1 -s -r -p "Press any key to back on system menu"
+restart
+;;
+6)
+clear
+echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e "\E[0;100;33m         • RESTART MENU •          \E[0m"
+echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e ""
+echo -e "[ \033[32mInfo\033[0m ] Restart Begin"
+sleep 1
+/etc/init.d/squid restart
+sleep 0.5
+echo -e "[ \033[32mInfo\033[0m ] Squid Service Restarted"
+echo ""
+echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo ""
+read -n 1 -s -r -p "Press any key to back on system menu"
+restart
+;;
+7)
+clear
+echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e "\E[0;100;33m         • RESTART MENU •          \E[0m"
+echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e ""
+echo -e "[ \033[32mInfo\033[0m ] Restart Begin"
+sleep 1
+/etc/init.d/nginx restart
+sleep 0.5
+echo -e "[ \033[32mInfo\033[0m ] Nginx Service Restarted"
+echo ""
+echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo ""
+read -n 1 -s -r -p "Press any key to back on system menu"
+restart
+;;
+8)
+clear
+echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e "\E[0;100;33m         • RESTART MENU •          \E[0m"
+echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e ""
+echo -e "[ \033[32mInfo\033[0m ] Restart Begin"
+sleep 1
+echo -e "[ \033[32mok\033[0m ] Restarting badvpn Service (via systemctl) "
+screen -dmS badvpn badvpn-udpgw --listen-addr 127.0.0.1:7300 --max-clients 500
+sleep 0.5
+echo -e "[ \033[32mInfo\033[0m ] Badvpn Service Restarted"
+echo ""
+echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo ""
+read -n 1 -s -r -p "Press any key to back on system menu"
+restart
+;;
+9)
+clear
+echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e "\E[0;100;33m         • RESTART MENU •          \E[0m"
+echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e ""
+echo -e "[ \033[32mInfo\033[0m ] Restart Begin"
+sleep 1
+echo -e "[ \033[32mok\033[0m ] Restarting xray Service (via systemctl) "
+systemctl restart xray
+systemctl restart xray.service
+sleep 0.5
+echo -e "[ \033[32mInfo\033[0m ] XRAY Service Restarted"
+echo ""
+echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo ""
+read -n 1 -s -r -p "Press any key to back on system menu"
+restart
+;;
+10)
+clear
+echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e "\E[0;100;33m         • RESTART MENU •          \E[0m"
+echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e ""
+echo -e "[ \033[32mInfo\033[0m ] Restart Begin"
+sleep 1
+echo -e "[ \033[32mok\033[0m ] Restarting websocket Service (via systemctl) "
+sleep 0.5
+systemctl restart sshws.service
+systemctl restart ws-dropbear.service
+systemctl restart ws-stunnel.service
+sleep 0.5
+echo -e "[ \033[32mInfo\033[0m ] WEBSOCKET Service Restarted"
+echo ""
+echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo ""
+read -n 1 -s -r -p "Press any key to back on system menu"
+restart
+;;
+11)
+clear
+echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e "\E[0;100;33m         • RESTART MENU •          \E[0m"
+echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e ""
+echo -e "[ \033[32mInfo\033[0m ] Restart Begin"
+sleep 1
+echo -e "[ \033[32mok\033[0m ] Restarting Trojan Go Service (via systemctl) "
+sleep 0.5
+systemctl restart trojan-go.service
+sleep 0.5
+echo -e "[ \033[32mInfo\033[0m ] Trojan Go Service Restarted"
+echo ""
+echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo ""
+read -n 1 -s -r -p "Press any key to back on system menu"
+restart
+;;
+0)
+menu
+exit
+;;
+x)
+clear
+exit
+;;
+*) echo -e "" ; echo "Harap Pilih Nomor Yang Sesuai" ; sleep 1 ; restart ;;
+esac

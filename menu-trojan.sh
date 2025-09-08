@@ -1,3 +1,33 @@
-z="
-";rCz='esac';TBz='n "';nCz=' 1 ;';LCz=' ; r';cBz='  ""';JBz='m•4\';QCz=' ; d';UCz='ek-t';hCz='yang';NBz='] Ch';bBz='[0m"';XCz='enu ';iz='" [\';gCz=', Sa';lBz='it"';rz='jan ';Pz=' -e ';ICz='an ;';cz='JAN ';CCz='dd-t';DCz='r ;;';Jz=' "Ch';jCz='ak B';az='   •';yBz='1) c';EBz='ing ';Sz='━━━━';dBz='  "P';LBz='lete';Uz='33[0';BBz='m•3\';wz='Acco';uBz='t';hBz='Ctrl';Rz='33m━';sBz='u : ';qCz=' ;;';oCz='u-tr';Kz='ecki';PBz='User';FCz=' ; t';FBz='an A';uz='] Tr';Qz='"\e[';KBz='] De';Yz='0;33';DBz='tend';HCz='troj';WBz='] \e';aBz='\033';VBz='m•0\';GCz='rial';yz='Troj';lz='e[0m';WCz=' ; m';rBz=' men';OBz='eck ';Bz='=$(w';qz=' Tro';Ez=' ipi';cCz='"Boh';RBz='in T';Oz='r';SCz='5) c';Hz='p);';eBz='ress';XBz='[31m';Nz='clea';pCz='ojan';KCz='3) c';Cz='get ';GBz='ctiv';Xz='0;10';nBz='read';jBz=' • T';jz='e[36';bz=' TRO';dCz=' sal';pBz='" Se';gBz='r [ ';RCz='el-t';mCz='leep';Iz='echo';ACz='lear';OCz=';;';ABz='an "';fCz='ekan';YBz='BACK';mz='] Cr';Wz='"\E[';SBz='roja';kCz='abi"';tz='m•2\';VCz='0) c';TCz=' ; c';PCz='4) c';kz='m•1\';iBz='+C ]';Vz='m"';xz='unt ';MBz='m•5\';eCz='ah t';iCz=' ked';UBz='e[31';oz=' Acc';vz='ial ';hz='""';kBz='o-Ex';MCz='enew';tBz='" op';Fz='nfo.';ECz='2) c';BCz=' ; a';gz='\E[0';wBz=' $op';Az='MYIP';IBz='fe "';aCz='*) e';Mz='PS"';Tz='━━\0';bCz='cho ';fz=' •  ';Lz='ng V';qBz='lect';pz='ount';xBz='t in';Gz='io/i';NCz='-tr ';lCz=' ; s';QBz=' Log';Dz='-qO-';JCz=';';CBz='] Ex';ZBz=' TO ';dz='    ';YCz='x) e';Zz='m   ';nz='eate';mBz=' ""';ez='MENU';sz='"';fBz=' x o';vBz='case';HBz='e Li';ZCz='xit ';oBz=' -p ';
-eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$z$Iz$Jz$Kz$Lz$Mz$z$Nz$Oz$z$Iz$Pz$Qz$Rz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Tz$Uz$Vz$z$Iz$Pz$Wz$Xz$Yz$Zz$az$bz$cz$dz$ez$fz$dz$dz$gz$Vz$z$Iz$Pz$Qz$Rz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Tz$Uz$Vz$z$Iz$Pz$hz$z$Iz$Pz$iz$jz$kz$lz$mz$nz$oz$pz$qz$rz$sz$z$Iz$Pz$iz$jz$tz$lz$uz$vz$wz$xz$yz$ABz$z$Iz$Pz$iz$jz$BBz$lz$CBz$DBz$EBz$wz$xz$yz$FBz$GBz$HBz$IBz$z$Iz$Pz$iz$jz$JBz$lz$KBz$LBz$oz$pz$qz$rz$sz$z$Iz$Pz$iz$jz$MBz$lz$NBz$OBz$PBz$QBz$RBz$SBz$TBz$z$Iz$Pz$hz$z$Iz$Pz$iz$UBz$VBz$lz$WBz$XBz$YBz$ZBz$ez$aBz$bBz$z$Iz$Pz$cBz$z$Iz$Pz$dBz$eBz$fBz$gBz$hBz$iBz$jBz$kBz$lBz$z$Iz$mBz$z$Iz$Pz$Qz$Rz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Sz$Tz$Uz$Vz$z$Iz$Pz$hz$z$nBz$oBz$pBz$qBz$rBz$sBz$tBz$uBz$z$Iz$Pz$hz$z$vBz$wBz$xBz$z$yBz$ACz$BCz$CCz$DCz$z$ECz$ACz$FCz$GCz$HCz$ICz$JCz$z$KCz$ACz$LCz$MCz$NCz$OCz$z$PCz$ACz$QCz$RCz$DCz$z$SCz$ACz$TCz$UCz$DCz$z$VCz$ACz$WCz$XCz$OCz$z$YCz$ZCz$OCz$z$aCz$bCz$cCz$dCz$eCz$fCz$gCz$hCz$iCz$jCz$kCz$lCz$mCz$nCz$rBz$oCz$pCz$qCz$z$rCz"
+# Decrypted by K-fuscator
+
+MYIP=$(wget -qO- ipinfo.io/ip);
+echo "Checking VPS"
+clear
+echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e "\E[0;100;33m      • TROJAN     MENU •          \E[0m"
+echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e ""
+echo -e " [\e[36m•1\e[0m] Create Account Trojan "
+echo -e " [\e[36m•2\e[0m] Trial Account Trojan "
+echo -e " [\e[36m•3\e[0m] Extending Account Trojan Active Life "
+echo -e " [\e[36m•4\e[0m] Delete Account Trojan "
+echo -e " [\e[36m•5\e[0m] Check User Login Trojan "
+echo -e ""
+echo -e " [\e[31m•0\e[0m] \e[31mBACK TO MENU\033[0m"
+echo -e   ""
+echo -e   "Press x or [ Ctrl+C ] • To-Exit"
+echo ""
+echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e ""
+read -p " Select menu : " opt
+echo -e ""
+case $opt in
+1) clear ; add-tr ;;
+2) clear ; trialtrojan ;;
+3) clear ; renew-tr ;;
+4) clear ; del-tr ;;
+5) clear ; cek-tr ;;
+0) clear ; menu ;;
+x) exit ;;
+*) echo "Boh salah tekan, Sayang kedak Babi" ; sleep 1 ; menu-trojan ;;
+esac

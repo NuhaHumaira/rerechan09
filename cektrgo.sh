@@ -1,3 +1,51 @@
-z="
-";gDz='rm -';EDz=' "$i';ADz='iptr';pBz=' -an';EBz=' "--';sBz=' EST';hCz=''\'' | ';uBz='SHED';eDz='um2"';vBz='tcp6';tz='conf';nBz='`net';yCz='tmp/';qCz='niq)';cBz='n';Kz='0;32';WDz='t)';aBz=' ]];';Dz='31m'\''';FCz='ut -';MDz='/$ju';cz='0;37';FDz='p" >';QCz='jum=';VDz='t /t';xz='#'\'' |';yBz='o | ';CCz='int ';mDz='iq |';oDz='her"';Ez='NC='\''';jBz='jang';Zz=';36m';SCz='t /v';kCz='-f1 ';nDz=' "ot';qDz='th";';Iz='N='\''\';dz='clea';KBz='-Go ';ICz=' sor';wCz='um" ';ZBz='kun"';CBz='-f 2';TCz='ar/l';Hz='GREE';NCz='{dat';nCz='w $i';TBz='ata[';tCz=' = "';dBz='="ti';bCz=' $ak';sDz='ript';uCz='$ip"';CDz='xt';OCz='a2[@';fz='echo';Pz='3m'\''';HBz='---=';az='LIGH';LDz='-i "';NBz='in ]';HCz='f1 |';IBz='[ Tr';oz='/etc';uDz=' By ';VCz='roja';Jz='033[';PBz='for ';Xz='5m'\''';Tz=';34m';NDz='m2/d';bBz=' the';yDz='othe';KCz='uniq';lCz='| gr';WCz='n-go';dCz=' awk';bDz=' "us';qBz='p | ';fBz='da"';ACz='awk ';pz='/tro';iz='mp/o';rCz='[ "$';BDz='go.t';jDz=' | s';QBz='akun';Vz='PURP';RBz=' in ';gBz='fi';MBz=' Log';UBz='@]}"';VBz='do';UDz='done';sz='kun.';rz='go/a';GDz='jum2';iCz='cut ';kBz='o.tx';uz=' | g';QDz='dev/';ZDz='xt |';lBz='t';DCz='$5}'\''';mBz='2=( ';oCz='sort';Wz='LE='\''';Sz='33[0';FBz='----';yz=' cut';WBz='if [';YBz=' "$a';Gz='[0m'\''';gz=' -n ';pDz=' "$o';nz='cat ';DDz='else';Nz='GE='\''';mCz='ep -';cCz='un |';AEz='r.tx';wz=''\''^##';wBz='troj';iBz='ptro';vCz=' "$j';dDz='un";';SBz='"${d';OBz='=---';YCz='og |';SDz=' 2>&';XCz='go.l';ECz=' | c';ZCz=' gre';Yz='CYAN';vz='rep ';Rz='='\''\0';HDz='=$(c';gCz=' $3}';oBz='stat';Uz=''\''';jCz='-d: ';vDz='Rere';Lz='m'\''';aDz=' nl)';Qz='BLUE';Fz='\033';hz='> /t';iDz='oth=';fCz='rint';RCz='$(ca';Oz='[0;3';bz='T='\''\';ODz='" /t';cDz='er :';hBz='mp/i';UCz='og/t';ez='r';tBz='ABLI';sCz='jum"';MCz='n "$';IDz='at /';lz='data';qz='jan-';xCz='>> /';pCz=' | u';RDz='null';GBz='--";';LCz='ip i';XBz='[ -z';LBz='User';eCz=' '\''{p';GCz='d: -';rBz='grep';lDz='| un';YDz='then';Mz='ORAN';JDz='xt)';xBz='an-g';kz='.txt';PDz=' > /';PCz=']}"';XDz=']]; ';BCz=''\''{pr';xDz='02"';tDz=' Mod';rDz=' "Sc';KDz='sed ';JBz='ojan';BBz=''\'' '\'' ';DBz='`);';kDz='ort ';aCz='p -w';jz='ther';TDz='1';hDz='rf /';fDz=';';ABz=' -d ';Bz=''\''\03';wDz='chan';mz='=( `';eBz='daka';Az='RED=';Cz='3[0;';JCz='t | ';
-eval "$Az$Bz$Cz$Dz$z$Ez$Fz$Gz$z$Hz$Iz$Jz$Kz$Lz$z$Mz$Nz$Fz$Oz$Pz$z$Qz$Rz$Sz$Tz$Uz$z$Vz$Wz$Fz$Oz$Xz$z$Yz$Rz$Sz$Zz$Uz$z$az$bz$Jz$cz$Lz$z$dz$ez$z$fz$gz$hz$iz$jz$kz$z$lz$mz$nz$oz$pz$qz$rz$sz$tz$uz$vz$wz$xz$yz$ABz$BBz$CBz$DBz$z$fz$EBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$GBz$z$fz$EBz$HBz$IBz$JBz$KBz$LBz$MBz$NBz$OBz$GBz$z$fz$EBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$GBz$z$PBz$QBz$RBz$SBz$TBz$UBz$z$VBz$z$WBz$XBz$YBz$ZBz$aBz$bBz$cBz$z$QBz$dBz$eBz$fBz$z$gBz$z$fz$gz$hz$hBz$iBz$jBz$kBz$lBz$z$lz$mBz$nBz$oBz$pBz$qBz$rBz$sBz$tBz$uBz$uz$vz$vBz$uz$vz$wBz$xBz$yBz$ACz$BCz$CCz$DCz$ECz$FCz$GCz$HCz$ICz$JCz$KCz$DBz$z$PBz$LCz$MCz$NCz$OCz$PCz$z$VBz$z$QCz$RCz$SCz$TCz$UCz$VCz$WCz$pz$qz$XCz$YCz$ZCz$aCz$bCz$cCz$dCz$eCz$fCz$gCz$hCz$iCz$jCz$kCz$lCz$mCz$nCz$qBz$oCz$pCz$qCz$z$WBz$rCz$sCz$tCz$uCz$aBz$bBz$cBz$z$fz$vCz$wCz$xCz$yCz$ADz$JBz$BDz$CDz$z$DDz$z$fz$EDz$FDz$hz$iz$jz$kz$z$gBz$z$GDz$HDz$IDz$yCz$ADz$JBz$BDz$JDz$z$KDz$LDz$MDz$NDz$ODz$iz$jz$kz$PDz$QDz$RDz$SDz$TDz$z$UDz$z$QCz$RCz$VDz$hBz$iBz$jBz$kBz$WDz$z$WBz$XBz$vCz$wCz$XDz$YDz$z$fz$PDz$QDz$RDz$z$DDz$z$GDz$HDz$IDz$yCz$ADz$JBz$BDz$ZDz$aDz$z$fz$bDz$cDz$bCz$dDz$z$fz$vCz$eDz$fDz$z$fz$EBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$GBz$z$gBz$z$gDz$hDz$yCz$ADz$JBz$BDz$CDz$z$UDz$z$iDz$RCz$VDz$iz$jz$kz$jDz$kDz$lDz$mDz$aDz$z$fz$nDz$oDz$fDz$z$fz$pDz$qDz$z$fz$EBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$GBz$z$fz$rDz$sDz$tDz$uDz$vDz$wDz$xDz$z$gDz$hDz$yCz$yDz$AEz$lBz"
+# Decrypted by K-fuscator
+
+RED='\033[0;31m'
+NC='\033[0m'
+GREEN='\033[0;32m'
+ORANGE='\033[0;33m'
+BLUE='\033[0;34m'
+PURPLE='\033[0;35m'
+CYAN='\033[0;36m'
+LIGHT='\033[0;37m'
+clear
+echo -n > /tmp/other.txt
+data=( `cat /etc/trojan-go/akun.conf | grep '^###' | cut -d ' ' -f 2`);
+echo "------------------------------------";
+echo "-----=[ Trojan-Go User Login ]=-----";
+echo "------------------------------------";
+for akun in "${data[@]}"
+do
+if [[ -z "$akun" ]]; then
+akun="tidakada"
+fi
+echo -n > /tmp/iptrojango.txt
+data2=( `netstat -anp | grep ESTABLISHED | grep tcp6 | grep trojan-go | awk '{print $5}' | cut -d: -f1 | sort | uniq`);
+for ip in "${data2[@]}"
+do
+jum=$(cat /var/log/trojan-go/trojan-go.log | grep -w $akun | awk '{print $3}' | cut -d: -f1 | grep -w $ip | sort | uniq)
+if [[ "$jum" = "$ip" ]]; then
+echo "$jum" >> /tmp/iptrojango.txt
+else
+echo "$ip" >> /tmp/other.txt
+fi
+jum2=$(cat /tmp/iptrojango.txt)
+sed -i "/$jum2/d" /tmp/other.txt > /dev/null 2>&1
+done
+jum=$(cat /tmp/iptrojango.txt)
+if [[ -z "$jum" ]]; then
+echo > /dev/null
+else
+jum2=$(cat /tmp/iptrojango.txt | nl)
+echo "user : $akun";
+echo "$jum2";
+echo "------------------------------------";
+fi
+rm -rf /tmp/iptrojango.txt
+done
+oth=$(cat /tmp/other.txt | sort | uniq | nl)
+echo "other";
+echo "$oth";
+echo "------------------------------------";
+echo "Script Mod By Rerechan02"
+rm -rf /tmp/other.txt

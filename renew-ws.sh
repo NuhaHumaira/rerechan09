@@ -1,3 +1,56 @@
-z="
-";FCz='exit';nEz='ow" ';cDz='[1-$';NBz='MYIP';VFz='ay.s';xBz='u ha';yEz='$mas';hBz='/etc';DFz='te -';ZBz='ER_O';bz='T='\''\';XBz='r';yBz='ve n';cCz='"===';tEz=' 864';bEz='now=';lz='ure ';VBz='om)';qEz=' (d1';fBz='^###';wEz='$exp';yFz='ript';SCz=' ren';RDz='UMBE';CGz='chan';jFz='ccou';wBz=' "Yo';hDz=': " ';eEz='m-%d';LDz='_OF_';VDz=' -rp';qz='/goo';Xz='5m'\''';YEz=' "${';oEz='exp2';dEz='%Y-%';fz='Serv';kEz='+%s)';Zz=';36m';bBz='IENT';VEz='f 3 ';IBz='"%Y-';XDz=' cli';BBz='s/< ';lEz='d2=$';fEz='d1=$';ZEz='R}"p';aEz=')';uDz='rep ';GBz='=`da';eDz='BER_';Fz='\033';pFz='me  ';uCz=' -s ';tDz='=$(g';KDz='${NU';REz='" | ';kBz='nfig';tFz='pire';JBz='%m-%';kDz=' -p ';JFz='# $u';sCz='2-3 ';Kz='0;32';nz='lent';gFz='Xray';sz='com/';pBz='S} =';FEz='p)';rCz=' -f ';Uz=''\''';YBz='NUMB';CDz='MBER';DEz='n "$';ABz='-e '\''';ECz='ts!"';nBz='if [';IDz='ER} ';mCz='g.js';BEz=' | s';WDz=' one';TCz='ew"';eFz='="';ODz=' ]];';oDz='ys):';WCz=' CTR';OCz='ient';AEz='-f 2';tCz='| nl';yDz=''\'' '\'' ';lCz='onfi';FDz='&& $';DCz='lien';eCz='"';GFz='d"`';dDz='{NUM';KFz='ser ';jz=' --i';qCz=' '\'' '\''';Jz='033[';lBz='.jso';pEz='=$((';Qz='BLUE';EFz=' day';rFz='ser"';pz='ps:/';IEz='ep -';TBz='nhaz';Pz='3m'\''';oz=' htt';dz='date';RBz='ipv4';cFz='tart';pCz='t -d';Hz='GREE';MEz='etc/';UCz=' " P';uEz='00 )';Nz='GE='\''';SBz='.ica';sDz='user';NCz='g cl';BCz='isti';XCz='L+C ';wDz=' cut';aCz='n"';WFz='ervi';dFz=' "==';PDz=' do';Gz='[0m'\''';tz=' 2>&';gEz='(dat';lFz='enew';CBz='Date';YDz='ent ';nDz=' (Da';iBz='/xra';ICz=' "Se';LFz='/###';MBz='er"`';HEz='$(gr';xFz=' "Sc';OFz='/g" ';PFz='n';hCz='# " ';Yz='CYAN';Sz='33[0';Rz='='\''\0';az='LIGH';xCz='l [[';vBz=' ""';Bz=''\''\03';Tz=';34m';Oz='[0;3';iDz='R';Ez='NC='\''';aDz=' " C';ACz='o ex';pDz=' " m';QEz='json';rBz=''\'' ]]';vDz='n" |';Iz='N='\''\';Lz='m'\''';SFz='l re';HBz='te +';vCz=''\'') '\''';PEz='fig.';wFz='xp4"';EDz='e 1 ';LCz=' exi';nFz=' "Us';cBz='S=$(';yz='sed ';eBz='-E "';KEz='### ';rEz=' - d';UFz='t xr';UDz='read';OEz='/con';hEz='e -d';jDz='done';HCz='fi';IFz='s/##';SEz='cut ';GEz='exp=';GCz=' 1';mFz='ed  ';EBz=''\'')';mDz='ired';RCz='t to';TDz='= '\''1';QDz='NT_N';bFz=' res';fDz='OF_C';QBz='-sS ';kFz='nt R';sEz='2) /';iz='l -v';JDz='-le ';NDz='NTS}';HDz='ENT_';jCz='c/xr';mz='--si';Cz='3[0;';gBz=' " "';PCz=' you';qBz='= '\''0';UBz='ip.c';kCz='ay/c';hz='(cur';aBz='F_CL';LBz='d "$';AFz='aakt';gz='er=$';NEz='xray';rz='gle.';TEz='-d '\''';iEz=' "$e';jEz='xp" ';CFz='exp4';YFz='serv';dCz='====';wCz='unti';NFz='er $';MFz=' $us';jBz='y/co';AGz=' By ';LEz='" "/';DGz='02"';cz='0;37';WEz='| se';xEz='2 + ';vFz=': $e';ZCz='etur';fFz=' "  ';MDz='CLIE';wz=' Dat';rDz='ktif';gCz='"^##';vz='grep';VCz='ress';BGz='Rere';WBz='clea';Dz='31m'\''';aFz='cron';Wz='LE='\''';CCz='ng c';xz='e | ';JCz='lect';KBz='d" -';DBz=': //';mEz=' "$n';EEz='ER}"';vEz='exp3';FFz='s" +';FBz='biji';SDz='R} =';iCz='"/et';kz='nsec';MCz='stin';ZDz='[1]:';yCz=' ${C';oFz='erna';cEz='$(da';Vz='PURP';QCz=' wan';gDz='TS}]';dBz=' -c ';lDz='"Exp';ADz='LIEN';ez='From';bDz='else';XEz='d -n';OBz='=$(c';sBz='; th';XFz='ce';fCz=' -E ';DDz='} -g';CEz='ed -';xDz=' -d ';PBz='url ';TFz='star';uFz='d   ';nCz='on" ';JEz='E "^';YCz='to r';KCz=' the';Az='RED=';oCz='| cu';qDz='asaa';BFz='if))';BDz='T_NU';GDz='{CLI';bCz=' -e ';qFz=': $u';mBz='n")';hFz='/Vme';sFz=' "Ex';RFz='emct';UEz=' '\'' -';tBz='en';ZFz='ice ';HFz='-i "';iFz='ss A';Mz='ORAN';uBz='echo';oBz='[ ${';uz='1 | ';QFz='syst';
-eval "$Az$Bz$Cz$Dz$z$Ez$Fz$Gz$z$Hz$Iz$Jz$Kz$Lz$z$Mz$Nz$Fz$Oz$Pz$z$Qz$Rz$Sz$Tz$Uz$z$Vz$Wz$Fz$Oz$Xz$z$Yz$Rz$Sz$Zz$Uz$z$az$bz$Jz$cz$Lz$z$dz$ez$fz$gz$hz$iz$jz$kz$lz$mz$nz$oz$pz$qz$rz$sz$tz$uz$vz$wz$xz$yz$ABz$BBz$CBz$DBz$EBz$z$FBz$GBz$HBz$IBz$JBz$KBz$LBz$dz$ez$fz$MBz$z$NBz$OBz$PBz$QBz$RBz$SBz$TBz$UBz$VBz$z$WBz$XBz$z$YBz$ZBz$aBz$bBz$cBz$vz$dBz$eBz$fBz$gBz$hBz$iBz$jBz$kBz$lBz$mBz$z$nBz$oBz$YBz$ZBz$aBz$bBz$pBz$qBz$rBz$sBz$tBz$z$WBz$XBz$z$uBz$vBz$z$uBz$wBz$xBz$yBz$ACz$BCz$CCz$DCz$ECz$z$FCz$GCz$z$HCz$z$WBz$XBz$z$uBz$vBz$z$uBz$ICz$JCz$KCz$LCz$MCz$NCz$OCz$PCz$QCz$RCz$SCz$TCz$z$uBz$UCz$VCz$WCz$XCz$YCz$ZCz$aCz$z$uBz$bCz$cCz$dCz$dCz$dCz$dCz$dCz$dCz$dCz$eCz$z$vz$fCz$gCz$hCz$iCz$jCz$kCz$lCz$mCz$nCz$oCz$pCz$qCz$rCz$sCz$tCz$uCz$vCz$z$wCz$xCz$yCz$ADz$BDz$CDz$DDz$EDz$FDz$GDz$HDz$YBz$IDz$JDz$KDz$CDz$LDz$MDz$NDz$ODz$PDz$z$nBz$oBz$MDz$QDz$RDz$SDz$TDz$rBz$sBz$tBz$z$UDz$VDz$ICz$JCz$WDz$XDz$YDz$ZDz$aDz$ADz$BDz$CDz$z$bDz$z$UDz$VDz$ICz$JCz$WDz$XDz$YDz$cDz$dDz$eDz$fDz$ADz$gDz$hDz$MDz$QDz$RDz$iDz$z$HCz$z$jDz$z$UDz$kDz$lDz$mDz$nDz$oDz$pDz$qDz$rDz$z$sDz$tDz$uDz$eBz$fBz$gBz$hBz$iBz$jBz$kBz$lBz$vDz$wDz$xDz$yDz$AEz$BEz$CEz$DEz$GDz$HDz$YBz$EEz$FEz$z$GEz$HEz$IEz$JEz$KEz$LEz$MEz$NEz$OEz$PEz$QEz$REz$SEz$TEz$UEz$VEz$WEz$XEz$YEz$MDz$QDz$RDz$ZEz$aEz$z$bEz$cEz$HBz$dEz$eEz$aEz$z$fEz$gEz$hEz$iEz$jEz$kEz$z$lEz$gEz$hEz$mEz$nEz$kEz$z$oEz$pEz$qEz$rEz$sEz$tEz$uEz$aEz$z$vEz$pEz$wEz$xEz$yEz$AFz$BFz$z$CFz$GBz$DFz$LBz$vEz$EFz$FFz$IBz$JBz$GFz$z$yz$HFz$IFz$JFz$KFz$wEz$LFz$MFz$NFz$CFz$OFz$hBz$iBz$jBz$kBz$lBz$PFz$z$yz$HFz$IFz$JFz$KFz$wEz$LFz$MFz$NFz$CFz$OFz$hBz$iBz$jBz$kBz$lBz$PFz$z$QFz$RFz$SFz$TFz$UFz$VFz$WFz$XFz$z$YFz$ZFz$aFz$bFz$cFz$z$WBz$XBz$z$uBz$vBz$z$uBz$dFz$dCz$dCz$dCz$dCz$dCz$dCz$dCz$eFz$z$uBz$fFz$gFz$hFz$iFz$jFz$kFz$lFz$mFz$eCz$z$uBz$dFz$dCz$dCz$dCz$dCz$dCz$dCz$dCz$eFz$z$uBz$nFz$oFz$pFz$qFz$rFz$z$uBz$sFz$tFz$uFz$vFz$wFz$z$uBz$dFz$dCz$dCz$dCz$dCz$dCz$dCz$dCz$eFz$z$uBz$xFz$yFz$AGz$BGz$CGz$DGz"
+# Decrypted by K-fuscator
+
+RED='\033[0;31m'
+NC='\033[0m'
+GREEN='\033[0;32m'
+ORANGE='\033[0;33m'
+BLUE='\033[0;34m'
+PURPLE='\033[0;35m'
+CYAN='\033[0;36m'
+LIGHT='\033[0;37m'
+dateFromServer=$(curl -v --insecure --silent https://google.com/ 2>&1 | grep Date | sed -e 's/< Date: //')
+biji=`date +"%Y-%m-%d" -d "$dateFromServer"`
+MYIP=$(curl -sS ipv4.icanhazip.com)
+clear
+NUMBER_OF_CLIENTS=$(grep -c -E "^### " "/etc/xray/config.json")
+if [[ ${NUMBER_OF_CLIENTS} == '0' ]]; then
+clear
+echo ""
+echo "You have no existing clients!"
+exit 1
+fi
+clear
+echo ""
+echo "Select the existing client you want to renew"
+echo " Press CTRL+C to return"
+echo -e "==============================="
+grep -E "^### " "/etc/xray/config.json" | cut -d ' ' -f 2-3 | nl -s ') '
+until [[ ${CLIENT_NUMBER} -ge 1 && ${CLIENT_NUMBER} -le ${NUMBER_OF_CLIENTS} ]]; do
+if [[ ${CLIENT_NUMBER} == '1' ]]; then
+read -rp "Select one client [1]: " CLIENT_NUMBER
+else
+read -rp "Select one client [1-${NUMBER_OF_CLIENTS}]: " CLIENT_NUMBER
+fi
+done
+read -p "Expired (Days): " masaaktif
+user=$(grep -E "^### " "/etc/xray/config.json" | cut -d ' ' -f 2 | sed -n "${CLIENT_NUMBER}"p)
+exp=$(grep -E "^### " "/etc/xray/config.json" | cut -d ' ' -f 3 | sed -n "${CLIENT_NUMBER}"p)
+now=$(date +%Y-%m-%d)
+d1=$(date -d "$exp" +%s)
+d2=$(date -d "$now" +%s)
+exp2=$(( (d1 - d2) / 86400 ))
+exp3=$(($exp2 + $masaaktif))
+exp4=`date -d "$exp3 days" +"%Y-%m-%d"`
+sed -i "s/### $user $exp/### $user $exp4/g" /etc/xray/config.json
+sed -i "s/### $user $exp/### $user $exp4/g" /etc/xray/config.json
+systemctl restart xray.service
+service cron restart
+clear
+echo ""
+echo "==============================="
+echo "  Xray/Vmess Account Renewed  "
+echo "==============================="
+echo "Username  : $user"
+echo "Expired   : $exp4"
+echo "==============================="
+echo "Script By Rerechan02"

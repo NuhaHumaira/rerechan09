@@ -1,3 +1,51 @@
-z="
-";Kz='0;32';EBz=' "--';RCz='t /v';yDz='r.tx';AEz='t';Lz='m'\''';bz='T='\''\';WDz='txt ';XBz=' "$a';az='LIGH';RBz='"${d';vBz='xray';kCz='| gr';HDz='sed ';yCz='txt';hDz=' | s';Wz='LE='\''';yz='ut -';uz='grep';VDz='then';fBz='fi';nCz='niq)';sz='.jso';oz='/etc';cz='0;37';KDz='m2/d';GBz='--";';GDz='txt)';jDz='| un';NCz='a2[@';FCz='1 | ';SBz='ata[';dCz=' '\''{p';Xz='5m'\''';UDz=']]; ';LBz=' Log';PBz='akun';Pz='3m'\''';PCz='jum=';ABz='d '\'' ';qDz=' "Sc';MCz='{dat';mCz='w $i';dDz='--"';eBz='da"';Mz='ORAN';cDz='um2"';RDz='done';nBz=' -an';iDz='ort ';BDz=' "$i';uDz='Rere';FBz='----';XCz='og |';Qz='BLUE';pz='/xra';Yz='CYAN';EDz='=$(c';sBz=' | g';Sz='33[0';ZDz=' "us';KCz='ip i';tBz='rep ';eCz='rint';MBz='in ]';dz='clea';sDz=' Mod';kBz='2=( ';nDz='her"';hz='> /t';iCz='-d: ';pDz='th";';tDz=' By ';xBz='wk '\''';vDz='chan';wCz='ipvm';fz='echo';SDz='t /t';tz='n | ';ACz='nt $';rDz='ript';iz='mp/o';Vz='PURP';JBz='ess ';lDz=' nl)';SCz='ar/l';iBz='ss.t';CCz='| cu';VBz='if [';ECz=': -f';aCz=' $ak';wDz='02"';jz='ther';yBz='{pri';fDz='rf /';sCz=' "$j';UCz='ray/';OCz=']}"';ODz='null';hCz='cut ';Az='RED=';ICz='niq`';lBz='`net';cCz=' awk';ez='r';Nz='GE='\''';ADz='else';XDz='| nl';eDz='rm -';gDz='oth=';WCz='ss.l';Bz=''\''\03';Ez='NC='\''';TDz='xt)';PDz=' 2>&';nz='cat ';FDz='at /';JDz='/$ju';bBz='n';pBz=' EST';gBz='mp/i';xCz='ess.';xDz='othe';rCz='$ip"';Dz='31m'\''';MDz=' > /';YBz='kun"';bDz='un";';kDz='iq |';DBz=';';IBz='[ Vm';mBz='stat';fCz=' $3}';vCz='tmp/';JCz=');';WBz='[ -z';cBz='="ti';gz=' -n ';CDz='p" >';oCz='[ "$';Hz='GREE';Fz='\033';aBz=' the';hBz='pvme';IDz='-i "';DDz='jum2';lz='data';UBz='do';NDz='dev/';mz='=( `';YCz=' gre';Rz='='\''\0';lCz='ep -';VCz='acce';Uz=''\''';wz='###'\''';NBz='=---';QDz='1';qCz=' = "';oBz='p | ';mDz=' "ot';jBz='xt';bCz='un |';HBz='---=';gCz=''\'' | ';dBz='daka';Oz='[0;3';rBz='SHED';CBz=' 2`)';jCz='-f1 ';Gz='[0m'\''';LCz='n "$';vz=' '\''^#';HCz=' | u';aDz='er :';Cz='3[0;';YDz=')';Jz='033[';Tz=';34m';ZBz=' ]];';ZCz='p -w';GCz='sort';tCz='um" ';pCz='jum"';qz='y/co';kz='.txt';wBz=' | a';KBz='User';uBz='tcp6';Zz=';36m';xz=' | c';qBz='ABLI';uCz='>> /';DCz='t -d';QCz='$(ca';BCz='5}'\'' ';TBz='@]}"';Iz='N='\''\';oDz=' "$o';BBz=''\'' -f';rz='nfig';QBz=' in ';OBz='for ';TCz='og/x';LDz='" /t';
-eval "$Az$Bz$Cz$Dz$z$Ez$Fz$Gz$z$Hz$Iz$Jz$Kz$Lz$z$Mz$Nz$Fz$Oz$Pz$z$Qz$Rz$Sz$Tz$Uz$z$Vz$Wz$Fz$Oz$Xz$z$Yz$Rz$Sz$Zz$Uz$z$az$bz$Jz$cz$Lz$z$dz$ez$z$fz$gz$hz$iz$jz$kz$z$lz$mz$nz$oz$pz$qz$rz$sz$tz$uz$vz$wz$xz$yz$ABz$BBz$CBz$DBz$z$fz$EBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$GBz$z$fz$EBz$FBz$HBz$IBz$JBz$KBz$LBz$MBz$NBz$FBz$GBz$z$fz$EBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$GBz$z$OBz$PBz$QBz$RBz$SBz$TBz$z$UBz$z$VBz$WBz$XBz$YBz$ZBz$aBz$bBz$z$PBz$cBz$dBz$eBz$z$fBz$z$fz$gz$hz$gBz$hBz$iBz$jBz$z$lz$kBz$lBz$mBz$nBz$oBz$uz$pBz$qBz$rBz$sBz$tBz$uBz$sBz$tBz$vBz$wBz$xBz$yBz$ACz$BCz$CCz$DCz$ECz$FCz$GCz$HCz$ICz$JCz$z$OBz$KCz$LCz$MCz$NCz$OCz$z$UBz$z$PCz$QCz$RCz$SCz$TCz$UCz$VCz$WCz$XCz$YCz$ZCz$aCz$bCz$cCz$dCz$eCz$fCz$gCz$hCz$iCz$jCz$kCz$lCz$mCz$oBz$GCz$HCz$nCz$z$VBz$oCz$pCz$qCz$rCz$ZBz$aBz$bBz$z$fz$sCz$tCz$uCz$vCz$wCz$xCz$yCz$z$ADz$z$fz$BDz$CDz$hz$iz$jz$kz$z$fBz$z$DDz$EDz$FDz$vCz$wCz$xCz$GDz$z$HDz$IDz$JDz$KDz$LDz$iz$jz$kz$MDz$NDz$ODz$PDz$QDz$z$RDz$z$PCz$QCz$SDz$gBz$hBz$iBz$TDz$z$VBz$WBz$sCz$tCz$UDz$VDz$z$fz$MDz$NDz$ODz$z$ADz$z$DDz$EDz$FDz$vCz$wCz$xCz$WDz$XDz$YDz$z$fz$ZDz$aDz$aCz$bDz$z$fz$sCz$cDz$DBz$z$fz$EBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$dDz$z$fBz$z$eDz$fDz$vCz$wCz$xCz$yCz$z$RDz$z$gDz$QCz$SDz$iz$jz$kz$hDz$iDz$jDz$kDz$lDz$z$fz$mDz$nDz$DBz$z$fz$oDz$pDz$z$fz$EBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$dDz$z$fz$qDz$rDz$sDz$tDz$uDz$vDz$wDz$z$eDz$fDz$vCz$xDz$yDz$AEz"
+# Decrypted by K-fuscator
+
+RED='\033[0;31m'
+NC='\033[0m'
+GREEN='\033[0;32m'
+ORANGE='\033[0;33m'
+BLUE='\033[0;34m'
+PURPLE='\033[0;35m'
+CYAN='\033[0;36m'
+LIGHT='\033[0;37m'
+clear
+echo -n > /tmp/other.txt
+data=( `cat /etc/xray/config.json | grep '^####' | cut -d ' ' -f 2`);
+echo "----------------------------------------";
+echo "---------=[ Vmess User Login ]=---------";
+echo "----------------------------------------";
+for akun in "${data[@]}"
+do
+if [[ -z "$akun" ]]; then
+akun="tidakada"
+fi
+echo -n > /tmp/ipvmess.txt
+data2=( `netstat -anp | grep ESTABLISHED | grep tcp6 | grep xray | awk '{print $5}' | cut -d: -f1 | sort | uniq`);
+for ip in "${data2[@]}"
+do
+jum=$(cat /var/log/xray/access.log | grep -w $akun | awk '{print $3}' | cut -d: -f1 | grep -w $ip | sort | uniq)
+if [[ "$jum" = "$ip" ]]; then
+echo "$jum" >> /tmp/ipvmess.txt
+else
+echo "$ip" >> /tmp/other.txt
+fi
+jum2=$(cat /tmp/ipvmess.txt)
+sed -i "/$jum2/d" /tmp/other.txt > /dev/null 2>&1
+done
+jum=$(cat /tmp/ipvmess.txt)
+if [[ -z "$jum" ]]; then
+echo > /dev/null
+else
+jum2=$(cat /tmp/ipvmess.txt | nl)
+echo "user : $akun";
+echo "$jum2";
+echo "----------------------------------------"
+fi
+rm -rf /tmp/ipvmess.txt
+done
+oth=$(cat /tmp/other.txt | sort | uniq | nl)
+echo "other";
+echo "$oth";
+echo "----------------------------------------"
+echo "Script Mod By Rerechan02"
+rm -rf /tmp/other.txt
